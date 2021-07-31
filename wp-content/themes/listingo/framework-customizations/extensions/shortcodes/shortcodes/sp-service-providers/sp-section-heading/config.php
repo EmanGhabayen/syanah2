@@ -1,0 +1,16 @@
+<?php
+
+if (!defined('FW')) {
+    die('Forbidden');
+}
+
+$cfg = array();
+
+$cfg = array(
+    'page_builder' => array(
+        'title' => esc_html__('Section Heading', 'listingo'),
+        'description' => esc_html__('Display seperate section heading with description.', 'listingo'),
+        'tab' => esc_html__('Listingo', 'listingo'),
+        'popup_size' => 'small' // can be large, medium or small
+    )
+);

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">sp_articles</custom-type>
+		<custom-type translate="1">sp_categories</custom-type>
+		<custom-type translate="1">sp_appointments</custom-type>
+		<custom-type translate="1">sp_claims</custom-type>
+        <custom-type translate="1">sp_reviews</custom-type>
+        <custom-type translate="1">shop_coupon</custom-type>
+		<custom-type translate="1">product</custom-type>
+        <custom-type translate="1">shop_order</custom-type>
+        <custom-type translate="1">shop_coupon</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">article_tags</taxonomy>
+        <taxonomy translate="0">sub_category</taxonomy>
+		<taxonomy translate="1">countries</taxonomy>
+        <taxonomy translate="1">cities</taxonomy>
+        <taxonomy translate="1">languages</taxonomy>
+        <taxonomy translate="0">amenities</taxonomy>
+		<taxonomy translate="1">insurance</taxonomy>
+    </taxonomies>         
+</wpml-config>
+
+

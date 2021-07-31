@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.edit_form_line .vc_checkbox-label{
+	width:100%;
+	float:left;
+}
+.vc_shortcode-param.vc_wrapper-param-type-checkbox .edit_form_line{
+	height: 150px;
+    overflow: hidden;
+    overflow-y: scroll;
+}

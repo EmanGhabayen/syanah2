@@ -1,0 +1,865 @@
+.tg-btn.send-message{ margin-top: 15px;}
+
+.wt-offerpopup .modal-dialog{max-width: 540px;}
+.wt-popuptitle{
+	float: left;
+	width: 100%;
+	padding:13px 20px;
+}
+.wt-popuptitle h2{
+	margin: 0;
+	font-size: 16px;
+	line-height:20px;
+	font-weight: 400;
+	display: inline-block;
+	vertical-align: middle;
+}
+.wt-popuptitle a{
+	color: #ddd;
+	font-size: 14px;
+	line-height: 20px;
+}
+.wt-projectdropdown-hold{
+	width: 100%;
+	float: left;
+	position: relative;
+}
+.wt-modalcontent .modal-body{padding: 0;}
+.wt-projectdropdown{
+	float: left;
+	width: 100%;
+	padding:20px;
+	background: #f7f7f7;
+}
+.wt-projectselect{
+	float: left;
+	width: 100%;
+	padding:10px;
+	cursor: pointer;
+	background: #fff;
+	border-radius: 4px;
+	position: relative;
+	border:1px solid #ddd;
+}
+.wt-projectselect:after {
+    top: 50%;
+    right: 15px;
+    z-index: 2;
+    color: #999;
+    display: block;
+    font-size: 14px;
+    margin-top: -8px;
+    content: '\e874';
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    font-size: inherit;
+    font-family: 'Linearicons-Free';
+}
+.wt-projectselect figure{
+	margin: 0;
+	float: left;
+	max-width: 50px;
+	margin-right: 20px;
+	border-radius: 4px;
+	background: #323232;
+}
+.wt-projectselect figure img{
+	opacity: 0.8;
+	display: block;
+	border-radius: 4px;
+}
+.wt-projectselect-content{
+	padding:5px 0;
+	overflow: hidden;
+}
+.wt-projectselect-content h3{
+	margin: 0 0 10px;
+	font-weight:400; 
+	font-size: 14px;
+	line-height: 16px;
+}
+.wt-projectselect-content span{
+	display: block;
+	font-size: 12px;
+	line-height: 14px;
+}
+.wt-projectdropdown-option{
+	left: 0;
+	top: 90px;
+	width: 100%;
+	z-index: 1;
+	display: none;
+	overflow: hidden;
+	padding: 0 20px;
+	position: absolute;
+	border-radius: 0 0 5px 5px;
+}
+.wt-projectdropdown-option .wt-projectselect{border-radius: 0 0 4px 4px;}
+.wt-projectdropdown-option .wt-projectselect:after{display: none;}
+.wt-projectdropdown-option .wt-projectselect + .wt-projectselect{border-top:1px solid #ddd;}
+.wt-formpopup{padding: 20px;}
+.wt-formpopup fieldset .form-group{margin: 0;}
+.wt-formpopup fieldset .form-group textarea{height: 200px;}
+.wt-formpopup fieldset .wt-btnarea{margin-top:10px; }
+.wt-hide-form{display: none;}
+.wt-formsearch fieldset .form-group .form-control {
+    width: 100%;
+    padding-right: 60px;
+}
+.wt-offersmessages .wt-formsearch {
+    padding: 20px;
+    background: #fff;
+}
+.wt-formtheme {
+    width: 100%;
+    float: left;
+}
+.wt-formtheme fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.wt-dashboardbox {
+    float: left;
+    width: 100%;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.wt-dashboardboxtitle {
+    float: left;
+    width: 100%;
+    padding: 25px 30px;
+    border-bottom: 1px solid #ddd;
+}
+.wt-dashboardboxtitle h2 {
+    margin: 0;
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+}
+.wt-dashboardboxtitle {
+    float: left;
+    width: 100%;
+    padding: 25px 30px;
+    border-bottom: 1px solid #ddd;
+}
+.wt-userlogedin {
+    float: right;
+    padding: 20px;
+    display: none;
+    cursor: pointer;
+    position: relative;
+    padding-right: 0;
+    position: relative;
+}
+.wt-userlogedin .wt-userimg {
+    margin: 0;
+    float: left;
+    max-width: 50px;
+    margin-right: 10px;
+}
+.wt-userimg img {
+    width: 100%;
+    display: block;
+    border-radius: 50px;
+}
+.wt-username {
+	overflow: hidden;
+	padding: 4px 0;
+}
+.wt-username .wt-viewprofile{
+	float: left;
+	line-height: 20px;
+}
+.wt-username h3 {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 0 5px;
+    line-height: 16px;
+}
+.wt-titlemessages .wt-username h3 i {
+    color: #00cc8d;
+    font-size: 14px;
+}
+.wt-username span {
+    display: block;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+/* DASHBOARD BOX */
+.wt-dashboardboxtitle{
+	float: left;
+	width: 100%;
+	padding: 25px 30px;
+	border-bottom: 1px solid #ddd;
+}
+.wt-dashboardboxtitle h2{
+	margin: 0;
+	display: block;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 23px;
+}
+.wt-yeartag{padding: 22px 30px 21px 30px;}
+.wt-yeartag h2{line-height: 23px;}
+.wt-dashboardboxcontent{
+	float: left;
+	width: 100%;
+	padding: 30px;
+}
+/* menu icon */
+.menu-icon{
+  margin: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+
+}
+.menu-icon em{
+  position: absolute;
+  border-radius: 2px;
+  background-color:#2d3e50;
+  transition: .3s cubic-bezier(.8, .5, .2, 1.4);
+}
+.menu-icon em:nth-child(1),
+.menu-icon em:nth-child(2),
+.menu-icon em:nth-child(3){
+	top: 0;
+	left: 50%;
+	width: 14px;
+	height:  2px;
+	display: block;
+	margin-left:-7px;
+	margin-top:15px; 
+}
+.menu-icon em:nth-child(2){top: 4px;}
+.menu-icon em:nth-child(3){top: 8px;}
+.click-menu-icon {
+  transform: rotate(-90deg);
+}
+.click-menu-icon em:nth-child(1){
+  top: 4px;
+  left:17px;
+  width: 20px;
+  transition: .3s cubic-bezier(.8, .5, .2, 1.4);
+  transform: rotate(90deg);
+  transition-delay: 150ms;
+}
+.click-menu-icon em:nth-child(2){
+  left:18px;
+  top: 9px;
+  width: 10px;
+  transition: .3s cubic-bezier(.8, .5, .2, 1.4);
+  transform: rotate(45deg);
+  transition-delay: 50ms;
+}
+.click-menu-icon em:nth-child(3){
+  left:26px;
+  top: 9px;
+  width: 10px;
+  transition: .3s cubic-bezier(.8, .5, .2, 1.4);
+  transform: rotate(-45deg);
+  transition-delay: 100ms;
+}
+.wt-offersmessages{padding: 0;}
+.wt-offersmessages ul{
+	width: 100%;
+	float: left;
+	font-size: 13px;
+	line-height: 20px;
+	list-style: none;
+}
+.wt-offersmessages ul li{
+	width: 30%;
+	float: left;
+	padding: 0;
+	position: relative;
+	line-height: inherit;
+	list-style-type: none;
+}
+.wt-offersmessages ul li:first-child{
+	background:#fcfcfc;
+	border-right: 1px solid #ddd;
+}
+.wt-offersmessages ul li:nth-child(2){
+	width: 70%;
+	padding: 0 15px;
+	padding-top:0;
+}
+.wt-offersmessages ul li .wt-dashboardscrollbar{
+	float: left;
+	width: 100%;
+	height: 775px;
+}
+.wt-offersmessages .wt-formsearch{padding: 20px;background: #fff;}
+.wt-offersmessages .wt-formsearch fieldset .form-group{margin: 0;}
+.wt-offersmessages .wt-ad{
+	margin: 0;
+	width: 100%;
+	float: left;
+	padding: 20px;
+	cursor: pointer;
+	position: relative;
+	border-top: 1px solid #ddd;
+}
+.wt-offersmessages .wt-ad.wt-active{background: #fff;}
+.wt-offersmessages .wt-ad.wt-active:after{height: 100%;}
+.wt-offersmessages .wt-ad figure{
+	margin: 0;
+	float: left;
+	width: 40px;
+	border-radius: 50px;
+}
+.wt-offersmessages .wt-ad figure img{
+	width: 100%;
+	display: block;
+	border-radius: 50px;
+}
+.wt-adcontent{
+	overflow: hidden;
+	padding: 1px 0 1px 10px;
+}
+.wt-offersmessages .wt-ad h3{
+	margin: 0;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 20px;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+}
+.wt-offersmessages .wt-ad span{
+	font-size: 13px;
+	line-height: 18px;
+	display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;  
+}
+.wt-offersmessages .wt-ad:hover{background: #fff;}
+.wt-offerer{
+	margin: 0;
+	width: 100%;
+	float: left;
+	padding: 10px;
+	cursor: pointer;
+	position: relative;
+}
+.wt-offerer figure{
+	margin: 0;
+	float: left;
+	overflow: hidden;
+	border-radius: 50%;
+}
+.wt-offerer h3{
+	margin: 0;
+	color: #363b4d;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 20px;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	padding: 10px 0 10px 10px;
+	-webkit-box-orient: vertical;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+}
+.wt-offerer:hover{background: #f7f7f7;}
+.wt-btndelete{
+	top: 10px;
+	right: 30px;
+	opacity: 0;
+	color: #fff;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	border-radius: 5px;
+	position: absolute;
+	visibility: hidden;
+	background: #f91942;
+}
+.wt-dotnotification{position: relative;padding-right:30px !important; }
+.wt-dotnotification:before {
+    top: 50%;
+    right: 20px;
+    width: 6px;
+    height: 6px;
+    content: '';
+    margin: -3px 0 0;
+    position: absolute;
+    border-radius: 6px;
+    background: #f91942;
+}
+.wt-offersmessages .wt-ad:after{
+	top: 0;
+	left: 0;
+	height: 0;
+	content: '';
+	width: 3px;
+	position: absolute;
+}
+.wt-offersmessages .wt-ad:hover:after{height: 100%;}
+.wt-chatarea{
+	width: 100%;
+	float: left;
+}
+.wt-chatarea .form-group{margin: 0;}
+.wt-offerermessage,
+.wt-memessage{
+	width: 100%;
+	float: left;
+	margin: 8px 0;
+	position: relative;
+	padding: 0 50px;
+}
+.wt-offerermessage figure,
+.wt-memessage figure{
+	margin: 0;
+	bottom: 21px;
+	width: 40px;
+	height:40px;
+	overflow: hidden;
+	border-radius: 50%;
+	position: absolute;
+}
+.wt-offerermessage figure{left: 0;}
+.wt-memessage figure{right: 0;}
+.wt-offerermessage figure img,
+.wt-memessage figure img{display: block;}
+.wt-offerermessage .wt-description p,
+.wt-memessage .wt-description p{
+	padding: 10px;
+	font-size: 14px;
+	color: #323232;
+	margin: 0 0 5px;
+	max-width: 485px;
+	line-height: 24px;
+	background: #f7f7f7;
+}
+.wt-offerermessage .wt-description p{float: left;}
+.wt-memessage .wt-description p{float: right;}
+.wt-offerermessage .wt-description p{border-radius: 10px 10px 10px 0;}
+.wt-memessage .wt-description p{border-radius: 10px 10px 0 10px;}
+.wt-offerermessage .wt-description p a,
+.wt-memessage .wt-description p a{
+	color: #55acee;
+	text-decoration: none;
+}
+.wt-offerermessage .wt-description time,
+.wt-memessage .wt-description time{
+	width: 100%;
+	float: left;
+	color: #666;
+	font-size: 11px;
+	line-height: 16px;
+}
+.wt-offerermessage .wt-description time{text-align: left;}
+.wt-memessage .wt-description time{text-align: right;}
+.wt-readmessage .wt-description time{
+	position: relative;
+	padding: 0 16px 0 0;
+}
+.wt-readmessage .wt-description time:before{
+	top: 0;
+	right: 0;
+	width: 16px;
+	height: 16px;
+	color: #00cc67;
+	font-size: 11px;
+	line-height: 16px;
+	content: '\f00c';
+	position: absolute;
+	font-family: 'FontAwesome';
+}
+.wt-offersmessages ul li .wt-messages.wt-dashboardscrollbar {
+	height: 668px;
+	margin: 0 0 20px;
+	position: relative;
+}
+.wt-offersmessages ul li .wt-messages:before{
+	top: 0;
+	width: 100%;
+	content: '';
+	z-index: 1;
+	height: 100px;
+	position: absolute;
+	background: url(../images/shadow.png);
+}
+.wt-btnsendmsg{
+	color: #fff;
+	min-width: 70px;
+	height: 29px;
+	line-height: 29px;
+	text-align: center;
+	margin: 4px;
+	border-radius: 4px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.wt-btnsendmsg:focus,
+.wt-btnsendmsg:hover{color: #fff;}
+.wt-messagebox{
+	overflow: hidden;
+	box-shadow: none;
+	position: relative;
+}
+.wt-messagebox .wt-dashboardboxcontent .wt-userprofile{padding: 0;}
+.wt-messagebox .wt-dashboardboxcontent .wt-applyfilters{
+	margin-top:30px;
+	border-top:1px solid #ddd;
+	padding-top:30px;
+}
+.wt-messagebox .wt-userprofile figure{
+	float: none;
+	max-width: 225px;
+	margin: 0 auto 30px;
+}
+.wt-replaybox {
+    float: left;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+.wt-replaybox .emojionearea,
+.wt-replaybox .emojionearea.form-control{
+	border: 0;
+	box-shadow: none;
+}
+.wt-replaybox .emojionearea.focused{box-shadow: none;}
+.wt-iconbox {
+    width: 100%;
+    float: left;
+    height: 37px;
+    text-align: right;
+    border-top:1px solid #ddd;
+}
+.wt-replaybox .form-control {
+	border: 0;
+	width: 100%;
+	float: left;
+	resize: none;
+	padding: 8px;
+	height: 130px;
+	font-size: 13px;
+	line-height: 16px;
+	border-radius: 0;
+}
+.wt-iconbox > i {
+    width: 37px;
+    float: left;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    line-height: 36px;
+    border-right: 1px solid #ddd;
+}
+.wt-iconbox > i:hover {background: #f7f7f7;}
+.wt-formsearch fieldset .form-group .form-control {
+    width: 100%;
+    padding-right: 60px;
+}
+.wt-searchgbtn {
+    top: 0;
+    right: 0;
+    color: #fff;
+    width: 40px;
+    display: block;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    border-radius: 0 5px 5px 0;
+}
+.wt-searchgbtn:hover,
+.wt-searchgbtn:focus{color: #fff;}
+
+/* Messages V2 Style */
+.wt-messageboxvtwo{margin-top:56px;overflow: visible; }
+.wt-messageboxvtwo .wt-userprofile figure{
+	width: 112px;
+	background: #fff;
+	border-radius: 50%;
+		-webkit-box-shadow: 0 0 30px 0 rgba(0,0,0,0.30);
+	box-shadow: 0 0 30px 0 rgba(0,0,0,0.30);
+}
+.wt-messageboxvtwo .wt-dashboardboxcontent .wt-userprofile{margin-top:-86px; }
+.wt-messageboxvtwo .wt-userprofile figure img{
+	border-radius: 50%;
+	padding: 6px;
+}
+.wt-messageboxvtwo .wt-userprofile .wt-title a.wt-btn{margin-top:30px; }
+.wt-chatemptyimg{
+	margin: 0;
+	float: left;
+	width: 100%;
+}
+.wt-chatarea-empty{padding: 286px 0;}
+.wt-chatemptyimg img{
+	width: 216px;
+	display: block;
+	margin: 0 auto;
+}
+.wt-chatemptyimg figcaption{
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.wt-chatemptyimg figcaption h3{
+	margin: 0;
+	color: #d0d0d0;
+	margin-top:30px; 
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 18px;
+}
+.wt-projecttitle{
+	float: left;
+	width: auto;
+}
+.wt-projecttitle figure{
+	float: left;
+	margin: 0;
+	width: 50px;
+	margin-right:20px; 
+	border-radius: 4px;
+	background: #323232;
+}
+.wt-projecttitle figure img{
+	width: 100%;
+	opacity: 0.80;
+	display: block;
+	border-radius: 4px;
+}
+.wt-projecttitle h3{
+	margin: 0;
+	font-size: 16px;
+	padding: 5px 0;
+	font-weight: 400;
+	overflow: hidden;
+	line-height: 20px;
+}
+.wt-projecttitle h3 span{
+	color:#55acee;
+	font-size: 13px;
+	display: block;
+	line-height: inherit;
+	text-transform: lowercase;
+}
+.wt-awardsholder .wt-experienceaccordion li .wt-rightarea{padding: 10px 0;}
+.form-group-label .wt-labelgroup{
+	float: left;
+	width: 100%;
+	padding: 10px;
+	border: 2px dashed #ddd;
+}
+.form-group-label label{
+	margin: 0;
+	display: inline-block;
+	vertical-align: middle;
+}
+.wt-experienceaccordion .wt-collapseexp fieldset .form-group .wt-labelgroup .wt-btn{
+    margin: 0;
+	color: #fff;
+    width: 160px;
+    padding: 0 10px;
+    background: #fff;
+    position: relative;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    vertical-align: middle;
+    text-transform: uppercase;
+	background: #00cc8d !important;
+    font: 700 13px/50px 'Poppins', Arial, Helvetica, sans-serif;
+}
+.form-group-label label input{display: none;}
+.wt-experienceaccordion .wt-collapseexp fieldset .form-group .wt-labelgroup span{
+	font-size: 14px;
+	margin-left:25px; 
+	line-height: 16px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.wt-fileuploading{
+	float: right;
+	display: none;
+	padding: 16px 0;
+	font-size: 12px;
+	line-height: 16px;
+	font-style: normal;
+}
+.wt-infouploading .wt-fileuploading{display: block;}
+.wt-infouploading > span{display: none;}
+.wt-fileuploading i{
+	color:#00cc8d;
+	margin-left:10px; 
+	font-size: 14px;
+	line-height: inherit;
+}
+.wt-formprojectinfo .wt-attachfile em {
+	color:#999;
+	z-index: 1;
+	position: relative;
+}
+.wt-formprojectinfo .wt-attachfile em a{margin-left:10px; }
+.wt-formprojectinfo .form-group .wt-attachfile{margin: 0;}
+.wt-titlemessages .wt-back{
+	float: left; 
+	display: none;
+	color: #55acee;
+	font-size: 18px;
+	margin-right:20px; 
+	line-height: 50px;
+}
+a.wt-back:focus,
+a.wt-back:hover{color: #55acee;}
+
+.wt-titlemessages .wt-userlogedin {
+    float: left;
+    padding: 0;
+    display: block !important;
+}
+.wt-userimg img {
+    width: 100%;
+    display: block;
+    border-radius: 50px;
+}
+.wt-username h3 {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 0 5px;
+    line-height: 16px;
+}
+.wt-viewprofile {
+    float: right;
+    color: #55acee;
+    font-size: 14px;
+    line-height: 50px;
+}
+/*Popup Style */
+.wt-offerpopup .modal-dialog{
+	overflow: hidden;
+	margin-top: 50px;
+}
+.wt-modalcontent{
+	float: left;
+	width: 100%;
+	box-shadow: none;
+}
+.wt-popuptitle{border-bottom: 1px solid #ddd;}
+.wt-modalcontent .modal-body .wt-replaybox .form-control{
+	border-radius: 5px;
+	border: 1px solid #ddd;
+}
+.wt-popuptitle a{
+	opacity: 1;
+	color: #767676;
+}
+.wt-chat-head .wt-dashboardboxtitle{
+	border:0; 
+	float: left;
+	width: 30%;
+	padding: 0;
+	border-right: 1px solid #ddd;
+}
+.wt-chat-head .wt-dashboardboxtitle.wt-titlemessages{
+	border:0;
+	width: 70%;
+	padding: 20px;
+}
+.wt-chat-head{
+	float: left;
+	width: 100%;
+	border-bottom:1px solid #ddd;
+}
+.load-wt-chat-message .sp-chatspin{
+	left: 50%;
+	top: 427px;
+	width: 28px; 
+	position: absolute;
+	margin:-3px 0 0 -14px;
+	z-index: 2;
+}
+.sp-chatsendspin .wt-btnsendmsg{position: relative;}
+.sp-chatsendspin .wt-btnsendmsg:before{
+	top: 0;
+	left: 0;
+	width: 100%;
+	content: '';
+	height: 100%;
+	position: absolute;
+	background: rgba(255,255,255,0.6);
+}
+.sp-chatsendspin .wt-btnsendmsg:after{
+	left: 0;
+	right: 0;
+	width: 100%;
+	color: #000;
+	height: 100%;
+	font-size: 16px;
+	content: '\f110';
+	text-align: center;	
+	position: absolute;
+	font-family: 'FontAwesome';
+	    -webkit-animation: fa-spin 2s infinite linear;
+    animation: fa-spin 2s infinite linear;
+}
+.wt-chat-head .wt-dashboardboxtitle:first-child{padding:34px 20px 33px;}
+.wt-titlemessages > .wt-viewprofile{font-size:18px;}
+.wt-offerermessage.wt-msg-thread.wt-readmessage .wt-description time{padding: 0 0 0 16px;}
+.wt-offerermessage.wt-msg-thread.wt-readmessage .wt-description time:before{
+	left: 0;
+	right: auto;
+}
+.wt-offerermessage:first-child,
+.wt-memessage:first-child{margin-top:40px;}
+.wt-offersmessages ul li:first-child .mCSB_scrollTools .mCSB_draggerContainer,
+.wt-messages .mCSB_scrollTools .mCSB_draggerContainer{
+	opacity: 0;
+	visibility: hidden;
+}
+.wt-offersmessages ul li:first-child:hover .mCSB_scrollTools .mCSB_draggerContainer,
+.wt-messages:hover .mCSB_scrollTools .mCSB_draggerContainer{
+	opacity: 1;
+	visibility: visible;
+}
+.wt-messages .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{
+	width: 6px;
+    border-radius: 10px;
+    background: #ddd !important;
+}
+.wt-messages .mCSB_outside + .mCSB_scrollTools{ right: -18px}
+.wt-messages .mCSB_scrollTools .mCSB_draggerRail,
+.wt-offersmessages ul li:first-child .mCSB_scrollTools .mCSB_draggerRail{
+	display: none;
+	width: 3px;
+	background: #ddd;
+}
+.wt-offerermessage .wt-description p img,
+.wt-memessage .wt-description p img{
+	font-size:20px;
+	vertical-align: middle;
+}
+.wt-btnsendmsg.wt-send{padding: 0 15px;}
+.wt-chatarea .mCSB_inside > .mCSB_container{margin-right: 0px;}
+.slighloader{position: relative;}
+.slighloader:after{
+	left: 0;
+	top: 0;
+	content: '';
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background:rgba(255,255,255,0.8);
+}

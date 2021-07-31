@@ -1,0 +1,2446 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Listingo VC Addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-21 14:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:83
+msgid "Active"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:65
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:54
+msgid "Add Author here. Leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:43
+msgid "Add Background Image"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-cities/core.php:60
+#: vc_custom/shortcodes/sp-contries/core.php:61
+msgid "Add Button"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-partners/core.php:62
+msgid "Add Company Name, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:46
+msgid "Add Counters"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:112
+#: vc_custom/shortcodes/sp-blog-posts/core.php:162
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:145
+#: vc_custom/shortcodes/sp-featured-banner/core.php:69
+#: vc_custom/shortcodes/sp-recent-questions/core.php:139
+#: vc_custom/shortcodes/sp-service-providers/core.php:77
+msgid "Add custom culumns for blog posts."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:123
+msgid "Add custom culumns for users listing."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:62
+msgid "Add description of the slide, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:47
+msgid "Add Description, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:47
+#: vc_custom/shortcodes/sp-blog-posts/core.php:47
+#: vc_custom/shortcodes/sp-call-to-action/core.php:55
+#: vc_custom/shortcodes/sp-categories-v3/core.php:47
+#: vc_custom/shortcodes/sp-contact-form/core.php:47
+#: vc_custom/shortcodes/sp-featured-listing/core.php:47
+#: vc_custom/shortcodes/sp-gallery/core.php:47
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:66
+#: vc_custom/shortcodes/sp-newsletter/core.php:47
+#: vc_custom/shortcodes/sp-partners/core.php:47
+#: vc_custom/shortcodes/sp-recent-ads/core.php:47
+#: vc_custom/shortcodes/sp-recent-questions/core.php:47
+#: vc_custom/shortcodes/sp-section-heading/core.php:47
+#: vc_custom/shortcodes/sp-service-providers/core.php:47
+#: vc_custom/shortcodes/sp-services/core.php:47
+#: vc_custom/shortcodes/sp-services-2/core.php:47
+#: vc_custom/shortcodes/sp-slider/core.php:74
+#: vc_custom/shortcodes/sp-slider/core.php:156
+#: vc_custom/shortcodes/sp-testimonials/core.php:73
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:62
+#: vc_custom/shortcodes/sp-text-block/core.php:47
+#: vc_custom/shortcodes/sp-timeline/core.php:47
+#: vc_custom/shortcodes/sp-timeline/core.php:78
+#: vc_custom/shortcodes/sp-video/core.php:47
+msgid "Add description, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:70
+msgid "Add Ending value of the counter, if empty it will be considered as 0"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:88
+#: vc_custom/shortcodes/sp-slider/core.php:167
+msgid "Add Features."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:63
+msgid "Add form button text, if left empty 'Signup Now' will be button text."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:55
+msgid "Add form title, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-contact-form/core.php:39
+#: vc_custom/shortcodes/sp-gallery/core.php:39
+msgid "Add heading, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:39
+msgid "Add height in PX as : 200, Default is 300."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:221
+msgid "Add height, please leave it empty for default value 445."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:47
+msgid "Add Latitude"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:55
+msgid "Add Longitude."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-call-to-action/core.php:39
+#: vc_custom/shortcodes/sp-categories/core.php:39
+#: vc_custom/shortcodes/sp-cities/core.php:39
+#: vc_custom/shortcodes/sp-contries/core.php:39
+#: vc_custom/shortcodes/sp-counter/core.php:54
+#: vc_custom/shortcodes/sp-timeline/core.php:39
+msgid "Add main heading, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-video/core.php:39
+msgid "Add main title, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:114
+#: vc_custom/shortcodes/sp-blog-posts/core.php:164
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:147
+#: vc_custom/shortcodes/sp-featured-banner/core.php:71
+#: vc_custom/shortcodes/sp-featured-listing/core.php:125
+#: vc_custom/shortcodes/sp-recent-questions/core.php:141
+#: vc_custom/shortcodes/sp-service-providers/core.php:79
+msgid "Add Now"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories/core.php:47
+#: vc_custom/shortcodes/sp-cities/core.php:47
+#: vc_custom/shortcodes/sp-contries/core.php:47
+msgid "Add section description, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:39
+#: vc_custom/shortcodes/sp-articles/core.php:39
+#: vc_custom/shortcodes/sp-blog-posts/core.php:39
+#: vc_custom/shortcodes/sp-featured-listing/core.php:39
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:39
+#: vc_custom/shortcodes/sp-recent-ads/core.php:39
+#: vc_custom/shortcodes/sp-recent-questions/core.php:39
+#: vc_custom/shortcodes/sp-service-providers/core.php:39
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:39
+msgid "Add Section heading, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:39
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:39
+#: vc_custom/shortcodes/sp-top-categories/core.php:39
+msgid "Add section heading. leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:47
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:47
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:47
+msgid "Add Section Sub heading, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:47
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:47
+#: vc_custom/shortcodes/sp-top-categories/core.php:47
+msgid ""
+"Add section sub heading. It will appear above the main heading. Leave it "
+"empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-partners/core.php:54
+msgid "Add section sub title, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:123
+#: vc_custom/shortcodes/sp-services-2/core.php:83
+msgid "Add service description, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:54
+#: vc_custom/shortcodes/sp-services-2/core.php:54
+msgid "Add Services."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:69
+msgid "Add Slide Buttons."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:54
+msgid "Add slide title, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:38
+#: vc_custom/shortcodes/sp-slider/core.php:50
+msgid "Add slide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:67
+#: vc_custom/shortcodes/sp-slider/core.php:86
+#: vc_custom/shortcodes/sp-slider/core.php:165
+msgid "Add Slider Buttons"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:110
+#: vc_custom/shortcodes/sp-home-slider/core.php:75
+#: vc_custom/shortcodes/sp-slider/core.php:94
+#: vc_custom/shortcodes/sp-slider/core.php:173
+msgid "Add slider buttton link here."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:77
+msgid "Add sponsor link here."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:54
+msgid "Add Sponsors."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:78
+msgid "Add spped of the counter e.g 8000"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:82
+msgid "Add Star Rating of the user"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:62
+msgid "Add Starting value of the counter, if empty it will be considered as 0."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-call-to-action/core.php:47
+msgid "Add Sub heading, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:66
+#: vc_custom/shortcodes/sp-slider/core.php:144
+msgid "Add Sub title, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:57
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:93
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:213
+#: vc_custom/shortcodes/sp-search-form-2/core.php:47
+#: vc_custom/shortcodes/sp-search-form-2/core.php:85
+#: vc_custom/shortcodes/sp-search-form-3/core.php:63
+msgid "Add sub title, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:57
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:46
+msgid "Add testimonail heading, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:80
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:69
+msgid "Add Testimonial image here."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:49
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:38
+msgid "Add Testimonials."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:102
+msgid "Add text, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:75
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:111
+msgid "Add text, please leave it empty to use default."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:85
+msgid "Add timeline gallery here."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:54
+msgid "Add Timeline History."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:62
+msgid "Add timeline year, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:70
+msgid "Add title here. Leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:53
+#: vc_custom/shortcodes/sp-authentication/core.php:66
+#: vc_custom/shortcodes/sp-authentication/core.php:79
+#: vc_custom/shortcodes/sp-authentication/core.php:92
+#: vc_custom/shortcodes/sp-categories-v3/core.php:39
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:48
+#: vc_custom/shortcodes/sp-newsletter/core.php:39
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:39
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:47
+#: vc_custom/shortcodes/sp-partners/core.php:39
+#: vc_custom/shortcodes/sp-post-questions/core.php:39
+#: vc_custom/shortcodes/sp-search-form/core.php:39
+#: vc_custom/shortcodes/sp-search-form-2/core.php:39
+#: vc_custom/shortcodes/sp-search-form-3/core.php:39
+#: vc_custom/shortcodes/sp-search-form-3/core.php:47
+#: vc_custom/shortcodes/sp-search-question/core.php:39
+#: vc_custom/shortcodes/sp-search-question/core.php:47
+#: vc_custom/shortcodes/sp-section-heading/core.php:39
+#: vc_custom/shortcodes/sp-services/core.php:39
+#: vc_custom/shortcodes/sp-services/core.php:62
+#: vc_custom/shortcodes/sp-services-2/core.php:39
+#: vc_custom/shortcodes/sp-slider/core.php:58
+#: vc_custom/shortcodes/sp-slider/core.php:132
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:39
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:70
+#: vc_custom/shortcodes/sp-text-block/core.php:39
+#: vc_custom/shortcodes/sp-trending-categories/core.php:39
+msgid "Add title, please leave it empty to hide."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:84
+msgid "Add title, please leave it empty to use default."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:139
+#: vc_custom/shortcodes/sp-blog-posts/core.php:189
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:172
+#: vc_custom/shortcodes/sp-featured-banner/core.php:96
+#: vc_custom/shortcodes/sp-featured-listing/core.php:150
+#: vc_custom/shortcodes/sp-recent-questions/core.php:166
+#: vc_custom/shortcodes/sp-service-providers/core.php:104
+msgid "Add your Custom Grid Classes for large screens. Default is col-lg-4"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:57
+msgid "Ads"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:56
+msgid "Ads listing type"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:54
+msgid "All"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:169
+#: vc_custom/shortcodes/sp-packages/skin.php:172
+msgid "Appointments"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:86
+#: vc_custom/shortcodes/sp-blog-posts/core.php:136
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:119
+#: vc_custom/shortcodes/sp-categories/core.php:90
+#: vc_custom/shortcodes/sp-categories-v3/core.php:64
+#: vc_custom/shortcodes/sp-featured-banner/core.php:59
+#: vc_custom/shortcodes/sp-featured-listing/core.php:113
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:113
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:70
+#: vc_custom/shortcodes/sp-recent-questions/core.php:113
+msgid "ASC"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:203
+#: vc_custom/shortcodes/sp-post-questions/skin.php:225
+msgid "Ask a Question"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:171
+msgid "Ask Now"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:219
+msgid "Ask question here"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:141
+msgid "Ask Question in Privacy"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:25
+msgid "Authentication"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/skin.php:138
+msgid "author"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:113
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:148
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:112
+#: vc_custom/shortcodes/sp-search-form-3/core.php:109
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:106
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:108
+msgid "Autoplay"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:150
+msgid "Autoplay true/false"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-service-providers/skin.php:134
+msgid "Avatar"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:82
+msgid "Banner Image"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:86
+msgid "blank"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:53
+#: vc_custom/shortcodes/sp-blog-posts/core.php:53
+msgid "Blog View"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:41
+msgid "Both Form"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:193
+msgid "Business Hours"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:108
+#: vc_custom/shortcodes/sp-call-to-action/core.php:67
+#: vc_custom/shortcodes/sp-home-slider/core.php:73
+#: vc_custom/shortcodes/sp-slider/core.php:92
+#: vc_custom/shortcodes/sp-slider/core.php:171
+msgid "Button Link"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:79
+msgid "Button Style"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:83
+msgid "Button text?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:61
+msgid "Button Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:247
+msgid "Buy Now"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:245
+msgid "Buy/Renew Now"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:65
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:53
+#: vc_custom/shortcodes/sp-featured-listing/core.php:53
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:53
+#: vc_custom/shortcodes/sp-recent-ads/core.php:53
+#: vc_custom/shortcodes/sp-recent-questions/core.php:53
+msgid "By Categories"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:66
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:54
+#: vc_custom/shortcodes/sp-recent-questions/core.php:54
+msgid "By Posts"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:54
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:54
+msgid "By Users"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-call-to-action/core.php:25
+msgid "Call To Action"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-call-to-action/core.php:61
+msgid "Call to action Image"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:158
+#: vc_custom/shortcodes/sp-recent-questions/skin.php:170
+msgid "category"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:55
+#: vc_custom/shortcodes/sp-blog-posts/core.php:55
+msgid "Choose Blog view."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:197
+msgid "Choose city"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:81
+#: vc_custom/shortcodes/sp-services/core.php:114
+#: vc_custom/shortcodes/sp-services-2/core.php:62
+msgid "Choose color for the count text"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:71
+msgid "Choose color for title and sub title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:55
+#: vc_custom/shortcodes/sp-search-form-3/core.php:55
+msgid "Choose color for title and sub title "
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:189
+msgid "Choose Country"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:39
+msgid "Choose text color for"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-cities/skin.php:97
+msgid "City Image"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:53
+#: vc_custom/shortcodes/sp-services/core.php:79
+#: vc_custom/shortcodes/sp-services-2/core.php:60
+msgid "Color"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-partners/core.php:60
+msgid "Company Name"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:226
+msgid "Contact informations"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:205
+msgid "Control scroll buttons true/false"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:76
+msgid "Counter Speed"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:52
+msgid "Counter Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:60
+msgid "Counter Value From"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:68
+msgid "Counter Value To"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:44
+msgid "Counters"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:135
+#: vc_custom/shortcodes/sp-search-form-2/core.php:62
+#: vc_custom/shortcodes/sp-search-form-3/core.php:70
+msgid "Countries list"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-contries/skin.php:88
+msgid "Country Image"
+msgstr ""
+
+#: vc_custom/core.php:49
+msgid "Css"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:109
+#: vc_custom/shortcodes/sp-blog-posts/core.php:159
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:142
+#: vc_custom/shortcodes/sp-featured-banner/core.php:66
+#: vc_custom/shortcodes/sp-featured-listing/core.php:120
+#: vc_custom/shortcodes/sp-recent-questions/core.php:136
+#: vc_custom/shortcodes/sp-service-providers/core.php:74
+msgid "Custom Columns"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/core.php:54
+msgid "Customers"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:84
+msgid "Data Refresh Interval"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:150
+#: vc_custom/shortcodes/sp-packages/skin.php:165
+#: vc_custom/shortcodes/sp-packages/skin.php:238
+msgid "days"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:89
+msgid "Default"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:66
+msgid "Default is .16"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:62
+msgid "Default is .18"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:78
+#: vc_custom/shortcodes/sp-articles/core.php:66
+#: vc_custom/shortcodes/sp-blog-posts/core.php:116
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:104
+#: vc_custom/shortcodes/sp-categories-v3/core.php:93
+#: vc_custom/shortcodes/sp-featured-banner/core.php:50
+#: vc_custom/shortcodes/sp-featured-listing/core.php:93
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:93
+#: vc_custom/shortcodes/sp-recent-ads/core.php:81
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:61
+#: vc_custom/shortcodes/sp-recent-questions/core.php:93
+#: vc_custom/shortcodes/sp-service-providers/core.php:58
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:58
+msgid "Default is .6"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:105
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:93
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:50
+msgid "Default is .60"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories/core.php:70
+msgid "Default is .9"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:87
+#: vc_custom/shortcodes/sp-blog-posts/core.php:137
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:120
+#: vc_custom/shortcodes/sp-categories/core.php:91
+#: vc_custom/shortcodes/sp-categories-v3/core.php:65
+#: vc_custom/shortcodes/sp-featured-banner/core.php:60
+#: vc_custom/shortcodes/sp-featured-listing/core.php:114
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:114
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:71
+#: vc_custom/shortcodes/sp-recent-questions/core.php:114
+msgid "DESC"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:45
+#: vc_custom/shortcodes/sp-blog-posts/core.php:45
+#: vc_custom/shortcodes/sp-call-to-action/core.php:53
+#: vc_custom/shortcodes/sp-categories/core.php:45
+#: vc_custom/shortcodes/sp-cities/core.php:45
+#: vc_custom/shortcodes/sp-contact-form/core.php:45
+#: vc_custom/shortcodes/sp-contries/core.php:45
+#: vc_custom/shortcodes/sp-featured-listing/core.php:45
+#: vc_custom/shortcodes/sp-gallery/core.php:45
+#: vc_custom/shortcodes/sp-recent-ads/core.php:45
+#: vc_custom/shortcodes/sp-recent-questions/core.php:45
+#: vc_custom/shortcodes/sp-service-providers/core.php:45
+#: vc_custom/shortcodes/sp-slider/core.php:72
+#: vc_custom/shortcodes/sp-slider/core.php:154
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:45
+#: vc_custom/shortcodes/sp-timeline/core.php:45
+#: vc_custom/shortcodes/sp-video/core.php:45
+msgid "Description"
+msgstr ""
+
+#: vc_custom/core.php:51
+msgid "Design options"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:188
+#: vc_custom/shortcodes/sp-slider/core.php:232
+#: vc_custom/shortcodes/sp-slider/core.php:243
+#: vc_custom/shortcodes/sp-testimonials/core.php:41
+msgid "Disable"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:72
+#: vc_custom/shortcodes/sp-search-question/skin.php:89
+msgid "E.g. I am a 25yr old male &amp; have backache for last 2 months"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:39
+msgid "Each post will serve as a slide"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:189
+#: vc_custom/shortcodes/sp-slider/core.php:233
+#: vc_custom/shortcodes/sp-slider/core.php:244
+#: vc_custom/shortcodes/sp-testimonials/core.php:40
+msgid "Enable"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:186
+msgid "Enable or Disable search form."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:77
+msgid "Enable sub categories in search form?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:155
+msgid "Enable/Disbale Mouse over scroll."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:219
+msgid "Enter form button title here."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:203
+msgid "Enter form title here."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:103
+msgid "Enter the marker content."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/skin.php:81
+msgid "Enter Your Email"
+msgstr ""
+
+#: vc_custom/core.php:65
+msgid "Entypo"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:151
+msgid "EV"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:99
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:87
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:44
+msgid "Excerpt Length"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:97
+#: vc_custom/shortcodes/sp-home-slider/core.php:107
+#: vc_custom/shortcodes/sp-home-slider/core.php:117
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:146
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:157
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:168
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:179
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:190
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:201
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:96
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:106
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:116
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:92
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:102
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:112
+msgid "False"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:92
+#: vc_custom/shortcodes/sp-search-form-3/core.php:103
+#: vc_custom/shortcodes/sp-search-form-3/core.php:114
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:100
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:111
+msgid "false"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:159
+#: vc_custom/shortcodes/sp-packages/skin.php:162
+msgid "Favorites Listings"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/skin.php:131
+msgid "Featured"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:238
+msgid "Featured ad for"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:235
+msgid "Featured ADS"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:233
+msgid "Featured ADS out of"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:165
+msgid "Featured listing for"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:25
+msgid "Featured Users V2"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:211
+msgid "Find Only With Profile Photo"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:80
+msgid "Five Star"
+msgstr ""
+
+#: vc_custom/core.php:62
+msgid "Font Awesome"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:150
+msgid "for"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:61
+msgid "Form Button Text"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:73
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:109
+#: vc_custom/shortcodes/sp-slider/core.php:217
+msgid "Form button text"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:37
+msgid "Form Heading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/core.php:45
+msgid "Form image that would be displayed before the heading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:45
+msgid "Form Sub Heading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:45
+msgid "Form Sub title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:55
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:91
+msgid "Form sub title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:53
+#: vc_custom/shortcodes/sp-search-form/core.php:37
+#: vc_custom/shortcodes/sp-search-form-2/core.php:37
+#: vc_custom/shortcodes/sp-search-question/core.php:37
+#: vc_custom/shortcodes/sp-slider/core.php:201
+msgid "Form Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:64
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:100
+msgid "Form title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:36
+msgid "Form Type"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:79
+msgid "Four Star"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:134
+#: vc_custom/shortcodes/sp-search-form-2/core.php:61
+#: vc_custom/shortcodes/sp-search-form-3/core.php:69
+msgid "Geo location?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:142
+msgid "Get A Professional Help"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:57
+#: vc_custom/shortcodes/sp-blog-posts/core.php:57
+msgid "Grid View"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:37
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:37
+#: vc_custom/shortcodes/sp-call-to-action/core.php:37
+#: vc_custom/shortcodes/sp-categories/core.php:37
+#: vc_custom/shortcodes/sp-cities/core.php:37
+#: vc_custom/shortcodes/sp-contact-form/core.php:37
+#: vc_custom/shortcodes/sp-contries/core.php:37
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:37
+#: vc_custom/shortcodes/sp-gallery/core.php:37
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:37
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:37
+#: vc_custom/shortcodes/sp-timeline/core.php:37
+msgid "Heading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-video/core.php:60
+msgid "Height of iframe"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:69
+msgid "Hide count?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/themographics"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/themographics/portfolio"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:76
+msgid "HYBRID"
+msgstr ""
+
+#: vc_custom/core.php:81 vc_custom/core.php:99 vc_custom/core.php:118
+#: vc_custom/core.php:137 vc_custom/core.php:155 vc_custom/core.php:174
+#: vc_custom/core.php:194 vc_custom/core.php:214 vc_custom/core.php:233
+msgid "Icon"
+msgstr ""
+
+#: vc_custom/core.php:60
+msgid "Icon library"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:91
+msgid "Icon?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/skin.php:432
+msgid "Image"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:92
+msgid "Image?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:179
+#: vc_custom/shortcodes/sp-packages/skin.php:182
+msgid "Insurance Fields"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:86
+msgid "interval of data or increment of values in the counter e.g 50, 100 etc"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:183
+#: vc_custom/shortcodes/sp-recent-question-slider/skin.php:129
+#: vc_custom/shortcodes/sp-recent-questions/skin.php:195
+msgid "Is this helpful?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:45
+msgid "Latitude"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:115
+#: vc_custom/shortcodes/sp-blog-posts/core.php:165
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:148
+#: vc_custom/shortcodes/sp-featured-banner/core.php:72
+#: vc_custom/shortcodes/sp-featured-listing/core.php:126
+#: vc_custom/shortcodes/sp-recent-questions/core.php:142
+#: vc_custom/shortcodes/sp-service-providers/core.php:80
+msgid "Leave it default"
+msgstr ""
+
+#: vc_custom/core.php:69
+msgid "Linear Icon"
+msgstr ""
+
+#: vc_custom/core.php:66
+msgid "Linecons"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:110
+#: vc_custom/shortcodes/sp-partners/core.php:73
+#: vc_custom/shortcodes/sp-services/core.php:128
+#: vc_custom/shortcodes/sp-services-2/core.php:88
+#: vc_custom/shortcodes/sp-text-block/core.php:52
+msgid "Link"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:82
+msgid "Link Target"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:58
+#: vc_custom/shortcodes/sp-blog-posts/core.php:58
+msgid "List View"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:31
+#: vc_custom/shortcodes/sp-articles/core.php:31
+#: vc_custom/shortcodes/sp-authentication/core.php:31
+#: vc_custom/shortcodes/sp-blog-posts/core.php:31
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:31
+#: vc_custom/shortcodes/sp-call-to-action/core.php:31
+#: vc_custom/shortcodes/sp-categories/core.php:31
+#: vc_custom/shortcodes/sp-categories-v3/core.php:31
+#: vc_custom/shortcodes/sp-cities/core.php:31
+#: vc_custom/shortcodes/sp-contact-form/core.php:31
+#: vc_custom/shortcodes/sp-contries/core.php:31
+#: vc_custom/shortcodes/sp-counter/core.php:31
+#: vc_custom/shortcodes/sp-featured-banner/core.php:31
+#: vc_custom/shortcodes/sp-featured-listing/core.php:31
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:31
+#: vc_custom/shortcodes/sp-gallery/core.php:31
+#: vc_custom/shortcodes/sp-google-map/core.php:31
+#: vc_custom/shortcodes/sp-home-slider/core.php:31
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:31
+#: vc_custom/shortcodes/sp-newsletter/core.php:31
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:31
+#: vc_custom/shortcodes/sp-packages/core.php:31
+#: vc_custom/shortcodes/sp-partners/core.php:31
+#: vc_custom/shortcodes/sp-post-questions/core.php:31
+#: vc_custom/shortcodes/sp-recent-ads/core.php:31
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:31
+#: vc_custom/shortcodes/sp-recent-questions/core.php:31
+#: vc_custom/shortcodes/sp-search-form/core.php:31
+#: vc_custom/shortcodes/sp-search-form-2/core.php:31
+#: vc_custom/shortcodes/sp-search-form-3/core.php:31
+#: vc_custom/shortcodes/sp-search-question/core.php:31
+#: vc_custom/shortcodes/sp-section-heading/core.php:31
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:31
+#: vc_custom/shortcodes/sp-service-providers/core.php:31
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:31
+#: vc_custom/shortcodes/sp-services/core.php:31
+#: vc_custom/shortcodes/sp-services-2/core.php:31
+#: vc_custom/shortcodes/sp-slider/core.php:31
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:31
+#: vc_custom/shortcodes/sp-testimonials/core.php:31
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:31
+#: vc_custom/shortcodes/sp-text-block/core.php:31
+#: vc_custom/shortcodes/sp-timeline/core.php:31
+#: vc_custom/shortcodes/sp-top-categories/core.php:31
+#: vc_custom/shortcodes/sp-trending-categories/core.php:31
+#: vc_custom/shortcodes/sp-video/core.php:31
+msgid "Listingo Addon"
+msgstr ""
+
+#. Name of the plugin
+msgid "Listingo VC Addon"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-cities/skin.php:100
+#: vc_custom/shortcodes/sp-contries/skin.php:92
+msgid "Listings"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:137
+#: vc_custom/shortcodes/sp-search-form-2/core.php:64
+#: vc_custom/shortcodes/sp-search-form-3/core.php:72
+msgid "Location type"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:42
+msgid "Login Form"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:51
+#: vc_custom/shortcodes/sp-authentication/core.php:77
+msgid "Login Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-partners/core.php:67
+msgid "Logo"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:53
+msgid "Longitude"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:103
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:102
+#: vc_custom/shortcodes/sp-search-form-3/core.php:98
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:95
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:98
+msgid "Loop"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:25
+msgid "Mailchimp"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:131
+msgid "Map Controls"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:142
+msgid "Map Dragable"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:37
+msgid "Map height"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:101
+msgid "Map Infobox content"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:117
+msgid "Map Infobox height"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:109
+msgid "Map Infobox width"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:84
+msgid "Map Style"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:71
+msgid "Map Type"
+msgstr ""
+
+#: vc_custom/core.php:68
+msgid "Material"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/skin.php:294
+msgid "Member since"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:221
+msgid "Misc :"
+msgstr ""
+
+#: vc_custom/core.php:67
+msgid "Mono Social"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/skin.php:272
+#: vc_custom/shortcodes/providers-by-cats/skin.php:277
+msgid "more"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:93
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:92
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:88
+msgid "Navigation"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:152
+msgid "NE"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:25
+msgid "News Letter V2"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:125
+msgid "NO"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:147
+#: vc_custom/shortcodes/sp-google-map/core.php:158
+#: vc_custom/shortcodes/sp-newsletter/core.php:65
+#: vc_custom/shortcodes/sp-post-questions/core.php:50
+#: vc_custom/shortcodes/sp-search-form-2/core.php:72
+msgid "No"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/skin.php:159
+msgid "No ads found."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:75
+msgid "no of ads"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:72
+#: vc_custom/shortcodes/sp-articles/core.php:60
+#: vc_custom/shortcodes/sp-blog-posts/core.php:110
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:98
+#: vc_custom/shortcodes/sp-categories/core.php:64
+#: vc_custom/shortcodes/sp-categories-v3/core.php:87
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:55
+#: vc_custom/shortcodes/sp-recent-questions/core.php:87
+#: vc_custom/shortcodes/sp-service-providers/core.php:52
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:52
+msgid "No of posts"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:56
+msgid "No of question?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/core.php:44
+#: vc_custom/shortcodes/sp-featured-listing/core.php:87
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:87
+msgid "No of users"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:255
+msgid "No package added yet."
+msgstr ""
+
+#: vc_custom/core.php:29
+msgid "No such array field exists."
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/skin.php:293
+msgid "No. of views"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:88
+msgid "NONE"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/skin.php:273
+#: vc_custom/shortcodes/sp-featured-listing-v2/skin.php:198
+msgid "Nothing found."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:231
+msgid "Number of ADS"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:197
+#: vc_custom/shortcodes/sp-packages/skin.php:200
+msgid "Number of articles"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:215
+msgid "Number of banner photos"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:208
+#: vc_custom/shortcodes/sp-packages/skin.php:211
+msgid "Number of gallery photos"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:154
+msgid "Number of job(s)"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:214
+msgid "Number of profile photos"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:219
+#: vc_custom/shortcodes/sp-packages/skin.php:222
+msgid "Number of video links"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:91
+msgid "OFF"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:135
+msgid "Off"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:90
+msgid "ON"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:136
+msgid "On"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:76
+msgid "One Star"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:226
+msgid "Online Appointment"
+msgstr ""
+
+#: vc_custom/core.php:63
+msgid "Open Iconic"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:93
+#: vc_custom/shortcodes/sp-blog-posts/core.php:143
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:126
+#: vc_custom/shortcodes/sp-categories/core.php:97
+#: vc_custom/shortcodes/sp-categories-v3/core.php:71
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:131
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:77
+#: vc_custom/shortcodes/sp-recent-questions/core.php:120
+msgid "Order By"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:98
+#: vc_custom/shortcodes/sp-blog-posts/core.php:148
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:131
+#: vc_custom/shortcodes/sp-categories/core.php:102
+#: vc_custom/shortcodes/sp-categories-v3/core.php:76
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:136
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:82
+#: vc_custom/shortcodes/sp-recent-questions/core.php:125
+msgid "Order by author"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:101
+#: vc_custom/shortcodes/sp-blog-posts/core.php:151
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:134
+#: vc_custom/shortcodes/sp-categories/core.php:105
+#: vc_custom/shortcodes/sp-categories-v3/core.php:79
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:139
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:85
+#: vc_custom/shortcodes/sp-recent-questions/core.php:128
+msgid "Order by date"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:102
+#: vc_custom/shortcodes/sp-blog-posts/core.php:152
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:135
+#: vc_custom/shortcodes/sp-categories/core.php:106
+#: vc_custom/shortcodes/sp-categories-v3/core.php:80
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:140
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:86
+#: vc_custom/shortcodes/sp-recent-questions/core.php:129
+msgid "Order by last modified date"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:97
+#: vc_custom/shortcodes/sp-blog-posts/core.php:147
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:130
+#: vc_custom/shortcodes/sp-categories/core.php:101
+#: vc_custom/shortcodes/sp-categories-v3/core.php:75
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:135
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:81
+#: vc_custom/shortcodes/sp-recent-questions/core.php:124
+msgid "Order by post id"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:100
+#: vc_custom/shortcodes/sp-blog-posts/core.php:150
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:133
+#: vc_custom/shortcodes/sp-categories/core.php:104
+#: vc_custom/shortcodes/sp-categories-v3/core.php:78
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:138
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:84
+#: vc_custom/shortcodes/sp-recent-questions/core.php:127
+msgid "Order by post name"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:99
+#: vc_custom/shortcodes/sp-blog-posts/core.php:149
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:132
+#: vc_custom/shortcodes/sp-categories/core.php:103
+#: vc_custom/shortcodes/sp-categories-v3/core.php:77
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:137
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:83
+#: vc_custom/shortcodes/sp-recent-questions/core.php:126
+msgid "Order by title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/core.php:25
+msgid "Packages"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/core.php:47
+msgid "Packages sub title goes here"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/core.php:39
+msgid "Packages title goes here"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:204
+msgid "Page Design"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:87
+msgid "Pagination"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-partners/core.php:52
+msgid "Partners"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:181
+msgid "Pause on hover"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:183
+msgid "Pause on hover true/false"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-contact-form/core.php:54
+msgid "Please select contact form to show"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:73
+msgid "Please select count type."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:96
+msgid ""
+"Please select icon or image as per your needs. Only selected will be shown"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/core.php:58
+msgid "Please select package type."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:70
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:58
+msgid "Please select posts selection type."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:54
+#: vc_custom/shortcodes/sp-blog-posts/core.php:89
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:77
+#: vc_custom/shortcodes/sp-categories/core.php:54
+#: vc_custom/shortcodes/sp-categories-v3/core.php:54
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:38
+#: vc_custom/shortcodes/sp-search-form-3/core.php:81
+#: vc_custom/shortcodes/sp-top-categories/core.php:54
+#: vc_custom/shortcodes/sp-trending-categories/core.php:46
+msgid "Please select posts to show"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:58
+msgid "Please select questions selection type."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:77
+msgid "Please select questions to show"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:105
+msgid "Please select style view."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:58
+msgid "Please select type show ads."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:58
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:58
+msgid "Please select users selection type."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:77
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:77
+msgid "Please select users to show"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:82
+#: vc_custom/shortcodes/sp-articles/core.php:84
+#: vc_custom/shortcodes/sp-articles/core.php:95
+#: vc_custom/shortcodes/sp-blog-posts/core.php:132
+#: vc_custom/shortcodes/sp-blog-posts/core.php:134
+#: vc_custom/shortcodes/sp-blog-posts/core.php:145
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:115
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:117
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:128
+#: vc_custom/shortcodes/sp-categories/core.php:86
+#: vc_custom/shortcodes/sp-categories/core.php:88
+#: vc_custom/shortcodes/sp-categories/core.php:99
+#: vc_custom/shortcodes/sp-categories-v3/core.php:60
+#: vc_custom/shortcodes/sp-categories-v3/core.php:62
+#: vc_custom/shortcodes/sp-categories-v3/core.php:73
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:66
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:68
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:79
+#: vc_custom/shortcodes/sp-recent-questions/core.php:109
+#: vc_custom/shortcodes/sp-recent-questions/core.php:111
+#: vc_custom/shortcodes/sp-recent-questions/core.php:122
+msgid "Post Order"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:151
+msgid "PR"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:241
+msgid "Private Chat"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/skin.php:168
+msgid "Profile Avatar"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:175
+msgid "Profile Banner"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:170
+msgid "Progress"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:172
+msgid "Progress true/false"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/skin.php:132
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:56
+#: vc_custom/shortcodes/sp-packages/core.php:53
+msgid "Providers"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:25
+msgid "Providers By Categories"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:209
+msgid "Question title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:103
+#: vc_custom/shortcodes/sp-blog-posts/core.php:153
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:136
+#: vc_custom/shortcodes/sp-categories/core.php:107
+#: vc_custom/shortcodes/sp-categories-v3/core.php:81
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:141
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:87
+#: vc_custom/shortcodes/sp-recent-questions/core.php:130
+msgid "Random order"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts/skin.php:307
+#: vc_custom/shortcodes/sp-blog-posts-v2/skin.php:150
+msgid "read more"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:25
+msgid "Recent Ads"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:43
+msgid "Register Form"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:64
+#: vc_custom/shortcodes/sp-authentication/core.php:90
+msgid "Register Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:192
+msgid "Responsive"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:194
+msgid "Responsive true/false"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:75
+msgid "ROADMAP"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:77
+msgid "SATELLITE"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:153
+msgid "Scroll"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:203
+msgid "Scroll buttons"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:25
+msgid "Search Ads and Providers"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:153
+msgid "Search Category"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:217
+#: vc_custom/shortcodes/sp-slider/skin.php:245
+#: vc_custom/shortcodes/sp-slider/skin.php:399
+msgid "Search Now"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:45
+#: vc_custom/shortcodes/sp-newsletter/core.php:45
+#: vc_custom/shortcodes/sp-partners/core.php:45
+#: vc_custom/shortcodes/sp-section-heading/core.php:45
+#: vc_custom/shortcodes/sp-services/core.php:45
+#: vc_custom/shortcodes/sp-services-2/core.php:45
+#: vc_custom/shortcodes/sp-text-block/core.php:45
+msgid "Section Description"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:37
+#: vc_custom/shortcodes/sp-blog-posts/core.php:37
+#: vc_custom/shortcodes/sp-featured-listing/core.php:37
+#: vc_custom/shortcodes/sp-recent-ads/core.php:37
+#: vc_custom/shortcodes/sp-recent-questions/core.php:37
+#: vc_custom/shortcodes/sp-service-providers/core.php:37
+#: vc_custom/shortcodes/sp-top-categories/core.php:37
+msgid "Section Heading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-top-categories/core.php:45
+msgid "Section Sub-Heading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:37
+#: vc_custom/shortcodes/sp-newsletter/core.php:37
+#: vc_custom/shortcodes/sp-partners/core.php:37
+#: vc_custom/shortcodes/sp-post-questions/core.php:37
+#: vc_custom/shortcodes/sp-section-heading/core.php:37
+#: vc_custom/shortcodes/sp-services/core.php:37
+#: vc_custom/shortcodes/sp-services-2/core.php:37
+#: vc_custom/shortcodes/sp-text-block/core.php:37
+#: vc_custom/shortcodes/sp-trending-categories/core.php:37
+msgid "Section Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:119
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:118
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:114
+msgid "Select autoplay to be true or false for the slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:85
+msgid "Select button style you want"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:64
+#: vc_custom/shortcodes/sp-blog-posts/core.php:75
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:63
+#: vc_custom/shortcodes/sp-featured-banner/core.php:36
+#: vc_custom/shortcodes/sp-featured-listing/core.php:63
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:63
+#: vc_custom/shortcodes/sp-recent-ads/core.php:63
+#: vc_custom/shortcodes/sp-recent-questions/core.php:63
+msgid "Select Categories"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:65
+msgid "Select Categories to show ads."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:77
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:65
+msgid "Select Categories to show posts from selected categories."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:65
+msgid "Select Categories to show questions from selected categories."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/core.php:38
+#: vc_custom/shortcodes/sp-featured-listing/core.php:65
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:65
+msgid "Select Categories to show users from selected categories."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:214
+#: vc_custom/shortcodes/sp-search-question/skin.php:158
+msgid "Select Category"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-cities/core.php:52
+msgid "Select Cities"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-cities/core.php:54
+msgid "Select cities to show."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-contact-form/core.php:52
+msgid "Select Contact Form"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-contries/core.php:52
+msgid "Select Countries"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-contries/core.php:54
+msgid "Select countries to show."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-authentication/core.php:39
+msgid "Select form type."
+msgstr ""
+
+#: vc_custom/core.php:95 vc_custom/core.php:114 vc_custom/core.php:133
+#: vc_custom/core.php:170 vc_custom/core.php:189 vc_custom/core.php:209
+#: vc_custom/core.php:229 vc_custom/core.php:248
+msgid "Select icon from library."
+msgstr ""
+
+#: vc_custom/core.php:77
+msgid "Select icon library."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:139
+#: vc_custom/shortcodes/sp-search-form-2/core.php:66
+#: vc_custom/shortcodes/sp-search-form-3/core.php:74
+msgid "Select location type."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:109
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:108
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:104
+msgid "Select loop to be true or false for the slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:133
+msgid "Select map controls."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:144
+msgid "Select map dragable."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:86
+msgid "Select map style. It will override map type."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:73
+msgid "Select map type"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-gallery/core.php:53
+msgid "Select multiple gallery images."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:120
+msgid "Select multiple images."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:99
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:98
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:94
+msgid "Select navigation to be true or false for the slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:52
+#: vc_custom/shortcodes/sp-blog-posts/core.php:87
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:75
+#: vc_custom/shortcodes/sp-categories/core.php:52
+#: vc_custom/shortcodes/sp-categories-v3/core.php:52
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:36
+#: vc_custom/shortcodes/sp-search-form-3/core.php:79
+#: vc_custom/shortcodes/sp-top-categories/core.php:52
+#: vc_custom/shortcodes/sp-trending-categories/core.php:44
+msgid "Select Posts"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:75
+msgid "Select Questions"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:37
+msgid "Select Slides"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:36
+msgid "Select style"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:75
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:75
+msgid "Select Users"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:217
+#: vc_custom/shortcodes/sp-blog-posts/core.php:267
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:250
+#: vc_custom/shortcodes/sp-featured-banner/core.php:174
+#: vc_custom/shortcodes/sp-featured-listing/core.php:228
+#: vc_custom/shortcodes/sp-recent-questions/core.php:244
+#: vc_custom/shortcodes/sp-service-providers/core.php:182
+msgid ""
+"Select your Custom Grid Classes for extra small screens. Default is col-xs-6"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:165
+#: vc_custom/shortcodes/sp-blog-posts/core.php:215
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:198
+#: vc_custom/shortcodes/sp-featured-banner/core.php:122
+#: vc_custom/shortcodes/sp-featured-listing/core.php:176
+#: vc_custom/shortcodes/sp-recent-questions/core.php:192
+#: vc_custom/shortcodes/sp-service-providers/core.php:130
+msgid "Select your Custom Grid Classes for medium screens. Default is col-md-4"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:191
+#: vc_custom/shortcodes/sp-blog-posts/core.php:241
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:224
+#: vc_custom/shortcodes/sp-featured-banner/core.php:148
+#: vc_custom/shortcodes/sp-featured-listing/core.php:202
+#: vc_custom/shortcodes/sp-recent-questions/core.php:218
+#: vc_custom/shortcodes/sp-service-providers/core.php:156
+msgid "Select your Custom Grid Classes for small screens. Default is col-sm-6"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:87
+msgid "self"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:121
+#: vc_custom/shortcodes/sp-services-2/core.php:81
+msgid "Service Description"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:112
+msgid "Service Thumbnail"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:60
+msgid "Service Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:52
+#: vc_custom/shortcodes/sp-services-2/core.php:52
+msgid "Services"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:84
+msgid "Set link target to blank or self tabs."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:119
+msgid "Set max height for the google map info box."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:111
+msgid "Set max width for the google map info box."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:36
+msgid "Show / Hide Quote icon"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:120
+msgid "Show Button?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:68
+msgid "Show count?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:184
+msgid "Show Form"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:159
+msgid "Show Nav"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:161
+msgid "Show nav true/false"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:239
+msgid "Show Navigation"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:85
+#: vc_custom/shortcodes/sp-articles/core.php:73
+#: vc_custom/shortcodes/sp-blog-posts/core.php:123
+#: vc_custom/shortcodes/sp-categories/core.php:77
+#: vc_custom/shortcodes/sp-featured-listing/core.php:100
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:100
+#: vc_custom/shortcodes/sp-recent-ads/core.php:88
+#: vc_custom/shortcodes/sp-recent-questions/core.php:100
+#: vc_custom/shortcodes/sp-service-providers/core.php:65
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:65
+msgid "Show or hide pagination."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:62
+msgid "Show or hide username."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:228
+msgid "Show Pagination"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:45
+msgid "Show Recent Questions"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:47
+msgid "Show recent questions."
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:66
+msgid ""
+"Show users by category selection. Leave it empty to show from all categories"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:122
+msgid "Show View all button"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:241
+msgid "Show/Hide slider Navigation"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:89
+#: vc_custom/shortcodes/sp-slider/core.php:230
+msgid "Show/Hide slider Pagination"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:82
+msgid "Simple"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:60
+msgid "Slide Description"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:126
+msgid "Slide description"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:118
+msgid "Slide sub title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:52
+msgid "Slide Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:36
+#: vc_custom/shortcodes/sp-slider/core.php:48
+msgid "Slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:111
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:108
+msgid "Slider Autoplay"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:219
+msgid "Slider Height"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:100
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:97
+msgid "Slider loop"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/skin.php:273
+#: vc_custom/shortcodes/sp-featured-listing-v2/skin.php:198
+#: vc_custom/shortcodes/sp-packages/skin.php:255
+#: vc_custom/shortcodes/sp-packages/skin.php:267
+msgid "Sorry!"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/core.php:25
+msgid "SP Articles"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories/core.php:25
+msgid "SP Categories"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:25
+msgid "SP Categories V3"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-cities/core.php:25
+msgid "SP Cities"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-contact-form/core.php:25
+msgid "SP Contact Form"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:25
+msgid "SP Counter"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-contries/core.php:25
+msgid "SP Countries"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/core.php:25
+msgid "SP Featured Banner"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:25
+msgid "SP Featured Users"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-gallery/core.php:25
+msgid "SP Gallery"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:25
+msgid "SP Google Map"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:25
+msgid "SP Home Slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-service-providers/core.php:25
+msgid "SP Listingo"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:25
+msgid "SP Listingo V2"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:25
+msgid "SP News Posts"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:25
+msgid "SP News Posts V2"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-partners/core.php:25
+msgid "SP Our Partners"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:25
+msgid "SP Post Questions"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:25
+msgid "SP Recent Question Slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:25
+msgid "SP Recent Questions"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form/core.php:25
+msgid "SP Search Form 1"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:25
+msgid "SP Search Form 2"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:25
+msgid "SP Search Form 3"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/core.php:25
+msgid "SP Search Question"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-section-heading/core.php:25
+msgid "SP Section Heading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:25
+msgid "SP Section Heading V2"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services/core.php:25
+msgid "SP Services V1"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-services-2/core.php:25
+msgid "SP Services V2"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:25
+msgid "SP Slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:25
+msgid "SP Sponsor Slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:25
+msgid "SP Testimonial"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:25
+msgid "SP Testimonial Slider"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-text-block/core.php:25
+msgid "SP Text Block"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:25
+msgid "SP Timeline"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-top-categories/core.php:25
+msgid "SP Top Categories"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-trending-categories/core.php:25
+msgid "SP Trending Categories"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-video/core.php:25
+msgid "SP Video"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:75
+msgid "Sponsor Link"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:52
+msgid "Sponsors"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:58
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:59
+msgid "Start Your Search"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:45
+#: vc_custom/shortcodes/sp-call-to-action/core.php:45
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:45
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:45
+msgid "Sub Heading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:64
+#: vc_custom/shortcodes/sp-slider/core.php:142
+msgid "Sub title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:45
+msgid "Sub Title?"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:45
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:45
+msgid "SubHeading"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:90
+msgid "Submit Now"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:73
+msgid "SUBMIT QUESTION"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter/skin.php:73
+msgid "Subscribe"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:46
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:82
+msgid "Tab Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:187
+#: vc_custom/shortcodes/sp-packages/skin.php:190
+msgid "Team Options"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:78
+msgid "TERRAIN"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:63
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:52
+msgid "Testimonial Author"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:71
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:60
+msgid "Testimonial Description"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:55
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:44
+msgid "Testimonial Heading."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:47
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:36
+msgid "Testimonials"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-counter/core.php:37
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:69
+#: vc_custom/shortcodes/sp-search-form-3/core.php:53
+msgid "Text Color"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themographics"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin will create shortcodes tab in visual composer plugin for "
+"listingo theme."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:128
+msgid "This text will be shown below slide title."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:120
+msgid "This text will be used above slide title."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:78
+msgid "Three Star"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:211
+msgid "Time out"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:76
+msgid "Timeline Description"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:52
+msgid "Timeline History"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:68
+msgid "Timeline Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:89
+msgid "Timeline URL (Link)"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-timeline/core.php:60
+msgid "Timeline Year."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/core.php:37
+#: vc_custom/shortcodes/sp-packages/core.php:45
+#: vc_custom/shortcodes/sp-slider/core.php:56
+#: vc_custom/shortcodes/sp-slider/core.php:130
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:37
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:68
+#: vc_custom/shortcodes/sp-video/core.php:37
+msgid "Title"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:37
+msgid "Title?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-video/core.php:54
+msgid "To place a video/audio, please put video link in this field"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:96
+#: vc_custom/shortcodes/sp-home-slider/core.php:106
+#: vc_custom/shortcodes/sp-home-slider/core.php:116
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:145
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:156
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:167
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:178
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:189
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:200
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:95
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:105
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:115
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:91
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:101
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:111
+msgid "True"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:91
+#: vc_custom/shortcodes/sp-search-form-3/core.php:102
+#: vc_custom/shortcodes/sp-search-form-3/core.php:113
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:99
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:110
+msgid "true"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:77
+msgid "Two Star"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:157
+msgid "Type Or Slect Category"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:152
+msgid "Type Title Here"
+msgstr ""
+
+#: vc_custom/core.php:64
+msgid "Typicons"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:45
+msgid "Upload background Image of the Slide"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:53
+msgid "Upload Image"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:55
+msgid "Upload Image of the form. Preffered size is 84 x 60"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:62
+msgid "Upload sponsor image here."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:81
+msgid "Upload your slider image here."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:109
+msgid "Upload your top image."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/core.php:55
+#: vc_custom/shortcodes/sp-featured-banner/core.php:57
+#: vc_custom/shortcodes/sp-featured-listing/core.php:109
+#: vc_custom/shortcodes/sp-featured-listing/core.php:111
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:109
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:111
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:133
+msgid "User Order"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:73
+msgid "User Ratings"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:59
+msgid "Username?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:99
+msgid "Vew 1"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/skin.php:277
+msgid "view"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-slider/core.php:40
+msgid "View 1"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:100
+#: vc_custom/shortcodes/sp-google-map/core.php:90
+#: vc_custom/shortcodes/sp-slider/core.php:41
+msgid "View 2"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:101
+#: vc_custom/shortcodes/sp-google-map/core.php:91
+#: vc_custom/shortcodes/sp-slider/core.php:42
+msgid "View 3"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:92
+msgid "View 4"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:93
+msgid "View 5"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:94
+msgid "View 6"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:139
+msgid "View All"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/skin.php:203
+msgid "View all"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-top-categories/skin.php:120
+msgid "View Listings"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/skin.php:177
+msgid "View Profile"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-video/core.php:67
+msgid "Width of iframe"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:232
+msgid "With Profile Photo"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing/skin.php:246
+msgid "within"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:267
+msgid ""
+"WooCoomerce should be installed for payments. Please contact to administrator"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-articles/skin.php:143
+msgid "Written by"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:152
+msgid "XT"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:124
+msgid "YES"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:146
+#: vc_custom/shortcodes/sp-google-map/core.php:157
+#: vc_custom/shortcodes/sp-newsletter/core.php:64
+#: vc_custom/shortcodes/sp-post-questions/core.php:49
+#: vc_custom/shortcodes/sp-search-form-2/core.php:73
+msgid "Yes"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter/skin.php:71
+msgid "Your email address"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-newsletter/skin.php:67
+msgid "Your name"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:165
+msgid "Your Question"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-google-map/core.php:60
+msgid "Zoom Level"
+msgstr ""

@@ -1,0 +1,2467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Listingo VC Addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-21 14:44+0000\n"
+"PO-Revision-Date: 2020-07-21 14:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:83
+msgid "Active"
+msgstr "Aktif"
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:65
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:54
+msgid "Add Author here. Leave it empty to hide."
+msgstr "Yazarı buraya ekle. Göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:43
+msgid "Add Background Image"
+msgstr "Arka Plan Resmi Ekleme"
+
+#: vc_custom/shortcodes/sp-cities/core.php:60
+#: vc_custom/shortcodes/sp-contries/core.php:61
+msgid "Add Button"
+msgstr "Düğme Ekle"
+
+#: vc_custom/shortcodes/sp-partners/core.php:62
+msgid "Add Company Name, please leave it empty to hide."
+msgstr "Firma Adı Giriniz, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-counter/core.php:46
+msgid "Add Counters"
+msgstr "Sayaç ekle"
+
+#: vc_custom/shortcodes/sp-articles/core.php:112
+#: vc_custom/shortcodes/sp-blog-posts/core.php:162
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:145
+#: vc_custom/shortcodes/sp-featured-banner/core.php:69
+#: vc_custom/shortcodes/sp-recent-questions/core.php:139
+#: vc_custom/shortcodes/sp-service-providers/core.php:77
+msgid "Add custom culumns for blog posts."
+msgstr "Blog gönderileri için özel sütunlar ekleyin."
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:123
+msgid "Add custom culumns for users listing."
+msgstr "Listelenen kullanıcılar için özel sütunlar ekleyin."
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:62
+msgid "Add description of the slide, please leave it empty to hide."
+msgstr "Slaytın açıklamasını ekleyin, lütfen gizlemek için boş bırakın."
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:47
+msgid "Add Description, please leave it empty to hide."
+msgstr "Açıklama ekle, saklamak için lütfen boş bırakın."
+
+#: vc_custom/shortcodes/sp-articles/core.php:47
+#: vc_custom/shortcodes/sp-blog-posts/core.php:47
+#: vc_custom/shortcodes/sp-call-to-action/core.php:55
+#: vc_custom/shortcodes/sp-categories-v3/core.php:47
+#: vc_custom/shortcodes/sp-contact-form/core.php:47
+#: vc_custom/shortcodes/sp-featured-listing/core.php:47
+#: vc_custom/shortcodes/sp-gallery/core.php:47
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:66
+#: vc_custom/shortcodes/sp-newsletter/core.php:47
+#: vc_custom/shortcodes/sp-partners/core.php:47
+#: vc_custom/shortcodes/sp-recent-ads/core.php:47
+#: vc_custom/shortcodes/sp-recent-questions/core.php:47
+#: vc_custom/shortcodes/sp-section-heading/core.php:47
+#: vc_custom/shortcodes/sp-service-providers/core.php:47
+#: vc_custom/shortcodes/sp-services/core.php:47
+#: vc_custom/shortcodes/sp-services-2/core.php:47
+#: vc_custom/shortcodes/sp-slider/core.php:74
+#: vc_custom/shortcodes/sp-slider/core.php:156
+#: vc_custom/shortcodes/sp-testimonials/core.php:73
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:62
+#: vc_custom/shortcodes/sp-text-block/core.php:47
+#: vc_custom/shortcodes/sp-timeline/core.php:47
+#: vc_custom/shortcodes/sp-timeline/core.php:78
+#: vc_custom/shortcodes/sp-video/core.php:47
+msgid "Add description, please leave it empty to hide."
+msgstr "Açıklama ekle, gizlemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-counter/core.php:70
+msgid "Add Ending value of the counter, if empty it will be considered as 0"
+msgstr "Sayacın Bitiş Değerini Ekle, boşsa 0 olarak kabul edilir."
+
+#: vc_custom/shortcodes/sp-slider/core.php:88
+#: vc_custom/shortcodes/sp-slider/core.php:167
+msgid "Add Features."
+msgstr "Öne Çıkanlara Ekle."
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:63
+msgid "Add form button text, if left empty 'Signup Now' will be button text."
+msgstr ""
+"Form düğmesi metni ekle, boş bırakılırsa 'Şimdi Kaydol' düğmesi metni "
+"olacaktır."
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:55
+msgid "Add form title, please leave it empty to hide."
+msgstr "Form başlığı ekle, saklamak için lütfen boş bırakın."
+
+#: vc_custom/shortcodes/sp-contact-form/core.php:39
+#: vc_custom/shortcodes/sp-gallery/core.php:39
+msgid "Add heading, please leave it empty to hide."
+msgstr "Başlık ekle, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-google-map/core.php:39
+msgid "Add height in PX as : 200, Default is 300."
+msgstr "Piksel cinsinden yükseklik ekle, Örneğin : 200. Varsayılan değer 300."
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:221
+msgid "Add height, please leave it empty for default value 445."
+msgstr "Yükseklik ekle, lütfen varsayılan değer 445 için boş bırakın."
+
+#: vc_custom/shortcodes/sp-google-map/core.php:47
+msgid "Add Latitude"
+msgstr "Enlem Ekle"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:55
+msgid "Add Longitude."
+msgstr "Boylam Ekle."
+
+#: vc_custom/shortcodes/sp-call-to-action/core.php:39
+#: vc_custom/shortcodes/sp-categories/core.php:39
+#: vc_custom/shortcodes/sp-cities/core.php:39
+#: vc_custom/shortcodes/sp-contries/core.php:39
+#: vc_custom/shortcodes/sp-counter/core.php:54
+#: vc_custom/shortcodes/sp-timeline/core.php:39
+msgid "Add main heading, please leave it empty to hide."
+msgstr "Ana başlık giriniz, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-video/core.php:39
+msgid "Add main title, please leave it empty to hide."
+msgstr "Ana başlığı giriniz, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-articles/core.php:114
+#: vc_custom/shortcodes/sp-blog-posts/core.php:164
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:147
+#: vc_custom/shortcodes/sp-featured-banner/core.php:71
+#: vc_custom/shortcodes/sp-featured-listing/core.php:125
+#: vc_custom/shortcodes/sp-recent-questions/core.php:141
+#: vc_custom/shortcodes/sp-service-providers/core.php:79
+msgid "Add Now"
+msgstr "Şimdi Ekle"
+
+#: vc_custom/shortcodes/sp-categories/core.php:47
+#: vc_custom/shortcodes/sp-cities/core.php:47
+#: vc_custom/shortcodes/sp-contries/core.php:47
+msgid "Add section description, please leave it empty to hide."
+msgstr "Bölüm açıklaması giriniz, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:39
+#: vc_custom/shortcodes/sp-articles/core.php:39
+#: vc_custom/shortcodes/sp-blog-posts/core.php:39
+#: vc_custom/shortcodes/sp-featured-listing/core.php:39
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:39
+#: vc_custom/shortcodes/sp-recent-ads/core.php:39
+#: vc_custom/shortcodes/sp-recent-questions/core.php:39
+#: vc_custom/shortcodes/sp-service-providers/core.php:39
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:39
+msgid "Add Section heading, please leave it empty to hide."
+msgstr "Bölüm başlığı ekle, göstermemek için lütfen boş bırakın."
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:39
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:39
+#: vc_custom/shortcodes/sp-top-categories/core.php:39
+msgid "Add section heading. leave it empty to hide."
+msgstr "Bölüm başlığı ekleyin. saklanmak için boş bırak."
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:47
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:47
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:47
+msgid "Add Section Sub heading, please leave it empty to hide."
+msgstr "Bölüm Alt başlığı ekle, lütfen gizlemek için boş bırakın."
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:47
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:47
+#: vc_custom/shortcodes/sp-top-categories/core.php:47
+msgid ""
+"Add section sub heading. It will appear above the main heading. Leave it "
+"empty to hide."
+msgstr ""
+"Bölüm alt başlığı ekleyin. Ana başlığın üzerinde görünecektir. Saklanmak "
+"için boş bırak."
+
+#: vc_custom/shortcodes/sp-partners/core.php:54
+msgid "Add section sub title, please leave it empty to hide."
+msgstr "Bölüm alt başlığı giriniz, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-services/core.php:123
+#: vc_custom/shortcodes/sp-services-2/core.php:83
+msgid "Add service description, please leave it empty to hide."
+msgstr "Hizmet açıklaması ekle, lütfen gizlemek için boş bırakın."
+
+#: vc_custom/shortcodes/sp-services/core.php:54
+#: vc_custom/shortcodes/sp-services-2/core.php:54
+msgid "Add Services."
+msgstr "Hizmet Ekle."
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:69
+msgid "Add Slide Buttons."
+msgstr "Slayt Düğmeleri Ekle."
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:54
+msgid "Add slide title, please leave it empty to hide."
+msgstr "Slayt başlığı ekle, gizlemek için lütfen boş bırakın."
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:38
+#: vc_custom/shortcodes/sp-slider/core.php:50
+msgid "Add slide."
+msgstr "Slide ekle."
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:67
+#: vc_custom/shortcodes/sp-slider/core.php:86
+#: vc_custom/shortcodes/sp-slider/core.php:165
+msgid "Add Slider Buttons"
+msgstr "Slide Düğmeleri Ekle"
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:110
+#: vc_custom/shortcodes/sp-home-slider/core.php:75
+#: vc_custom/shortcodes/sp-slider/core.php:94
+#: vc_custom/shortcodes/sp-slider/core.php:173
+msgid "Add slider buttton link here."
+msgstr "Slider düğme bağlantısını buraya ekle."
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:77
+msgid "Add sponsor link here."
+msgstr "Sponsor linki buraya ekle."
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:54
+msgid "Add Sponsors."
+msgstr "Sponsorlar ekle."
+
+#: vc_custom/shortcodes/sp-counter/core.php:78
+msgid "Add spped of the counter e.g 8000"
+msgstr "Sayacın hızını ekleyin, örneğin 8000"
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:82
+msgid "Add Star Rating of the user"
+msgstr "Kullanıcıya Yıldız Derecelendirmesi ekle"
+
+#: vc_custom/shortcodes/sp-counter/core.php:62
+msgid "Add Starting value of the counter, if empty it will be considered as 0."
+msgstr ""
+"Sayacın başlangıç değerini ekleyin, boş ise 0 olarak kabul edilecektir."
+
+#: vc_custom/shortcodes/sp-call-to-action/core.php:47
+msgid "Add Sub heading, please leave it empty to hide."
+msgstr "Alt başlık giriniz, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-slider/core.php:66
+#: vc_custom/shortcodes/sp-slider/core.php:144
+msgid "Add Sub title, please leave it empty to hide."
+msgstr "Alt Başlık ekle, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:57
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:93
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:213
+#: vc_custom/shortcodes/sp-search-form-2/core.php:47
+#: vc_custom/shortcodes/sp-search-form-2/core.php:85
+#: vc_custom/shortcodes/sp-search-form-3/core.php:63
+msgid "Add sub title, please leave it empty to hide."
+msgstr "Alt başlık ekle, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:57
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:46
+msgid "Add testimonail heading, please leave it empty to hide."
+msgstr "Müşteri görüşleri başlığı ekle, gizlemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:80
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:69
+msgid "Add Testimonial image here."
+msgstr "Müşteri görüşleri resmini buraya ekle."
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:49
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:38
+msgid "Add Testimonials."
+msgstr "Müşteri Görüşleri Ekle."
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:102
+msgid "Add text, please leave it empty to hide."
+msgstr "Metin ekle, saklamak için lütfen boş bırakın."
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:75
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:111
+msgid "Add text, please leave it empty to use default."
+msgstr "Metin ekle, varsayılanı kullanmak için lütfen boş bırakın."
+
+#: vc_custom/shortcodes/sp-timeline/core.php:85
+msgid "Add timeline gallery here."
+msgstr "Zaman çizelgesi galerisini buraya ekle."
+
+#: vc_custom/shortcodes/sp-timeline/core.php:54
+msgid "Add Timeline History."
+msgstr "Zaman Çizelgesi Geçmişi ekle."
+
+#: vc_custom/shortcodes/sp-timeline/core.php:62
+msgid "Add timeline year, please leave it empty to hide."
+msgstr "Zaman çizelgesi yılı ekle, gizlemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-timeline/core.php:70
+msgid "Add title here. Leave it empty to hide."
+msgstr "Başlığı buraya giriniz. Göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-authentication/core.php:53
+#: vc_custom/shortcodes/sp-authentication/core.php:66
+#: vc_custom/shortcodes/sp-authentication/core.php:79
+#: vc_custom/shortcodes/sp-authentication/core.php:92
+#: vc_custom/shortcodes/sp-categories-v3/core.php:39
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:48
+#: vc_custom/shortcodes/sp-newsletter/core.php:39
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:39
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:47
+#: vc_custom/shortcodes/sp-partners/core.php:39
+#: vc_custom/shortcodes/sp-post-questions/core.php:39
+#: vc_custom/shortcodes/sp-search-form/core.php:39
+#: vc_custom/shortcodes/sp-search-form-2/core.php:39
+#: vc_custom/shortcodes/sp-search-form-3/core.php:39
+#: vc_custom/shortcodes/sp-search-form-3/core.php:47
+#: vc_custom/shortcodes/sp-search-question/core.php:39
+#: vc_custom/shortcodes/sp-search-question/core.php:47
+#: vc_custom/shortcodes/sp-section-heading/core.php:39
+#: vc_custom/shortcodes/sp-services/core.php:39
+#: vc_custom/shortcodes/sp-services/core.php:62
+#: vc_custom/shortcodes/sp-services-2/core.php:39
+#: vc_custom/shortcodes/sp-slider/core.php:58
+#: vc_custom/shortcodes/sp-slider/core.php:132
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:39
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:70
+#: vc_custom/shortcodes/sp-text-block/core.php:39
+#: vc_custom/shortcodes/sp-trending-categories/core.php:39
+msgid "Add title, please leave it empty to hide."
+msgstr "Başlık ekle, göstermemek için boş bırakınız."
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:84
+msgid "Add title, please leave it empty to use default."
+msgstr "Başlık ekle, varsayılanı kullanmak için lütfen boş bırakın."
+
+#: vc_custom/shortcodes/sp-articles/core.php:139
+#: vc_custom/shortcodes/sp-blog-posts/core.php:189
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:172
+#: vc_custom/shortcodes/sp-featured-banner/core.php:96
+#: vc_custom/shortcodes/sp-featured-listing/core.php:150
+#: vc_custom/shortcodes/sp-recent-questions/core.php:166
+#: vc_custom/shortcodes/sp-service-providers/core.php:104
+msgid "Add your Custom Grid Classes for large screens. Default is col-lg-4"
+msgstr ""
+"Büyük ekranlar için Özel Izgara (grid) Sınıflarınızı ekleyin. Varsayılan col-"
+"lg-4"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:57
+msgid "Ads"
+msgstr "Reklamlar"
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:56
+msgid "Ads listing type"
+msgstr "Reklam listeleme türü"
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:54
+msgid "All"
+msgstr "Herşey"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:169
+#: vc_custom/shortcodes/sp-packages/skin.php:172
+msgid "Appointments"
+msgstr "randevular"
+
+#: vc_custom/shortcodes/sp-articles/core.php:86
+#: vc_custom/shortcodes/sp-blog-posts/core.php:136
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:119
+#: vc_custom/shortcodes/sp-categories/core.php:90
+#: vc_custom/shortcodes/sp-categories-v3/core.php:64
+#: vc_custom/shortcodes/sp-featured-banner/core.php:59
+#: vc_custom/shortcodes/sp-featured-listing/core.php:113
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:113
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:70
+#: vc_custom/shortcodes/sp-recent-questions/core.php:113
+msgid "ASC"
+msgstr "Artan"
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:203
+#: vc_custom/shortcodes/sp-post-questions/skin.php:225
+msgid "Ask a Question"
+msgstr "Soru Sor"
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:171
+msgid "Ask Now"
+msgstr "Şimdi sor"
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:219
+msgid "Ask question here"
+msgstr "Sorunuzu buraya yazın"
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:141
+msgid "Ask Question in Privacy"
+msgstr "Gizlilikle İlgili Soru Sor"
+
+#: vc_custom/shortcodes/sp-authentication/core.php:25
+msgid "Authentication"
+msgstr "Doğrulama"
+
+#: vc_custom/shortcodes/sp-articles/skin.php:138
+msgid "author"
+msgstr "yazar"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:113
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:148
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:112
+#: vc_custom/shortcodes/sp-search-form-3/core.php:109
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:106
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:108
+msgid "Autoplay"
+msgstr "Otomatik oynatma"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:150
+msgid "Autoplay true/false"
+msgstr "Otomatik oynatma doğru / yanlış"
+
+#: vc_custom/shortcodes/sp-service-providers/skin.php:134
+msgid "Avatar"
+msgstr "Profil Resmi"
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:82
+msgid "Banner Image"
+msgstr "Banner Resmi"
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:86
+msgid "blank"
+msgstr "boş"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:53
+#: vc_custom/shortcodes/sp-blog-posts/core.php:53
+msgid "Blog View"
+msgstr "Blog Görünümü"
+
+#: vc_custom/shortcodes/sp-authentication/core.php:41
+msgid "Both Form"
+msgstr "Her iki form"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:193
+msgid "Business Hours"
+msgstr "İş saatleri"
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:108
+#: vc_custom/shortcodes/sp-call-to-action/core.php:67
+#: vc_custom/shortcodes/sp-home-slider/core.php:73
+#: vc_custom/shortcodes/sp-slider/core.php:92
+#: vc_custom/shortcodes/sp-slider/core.php:171
+msgid "Button Link"
+msgstr "Düğme Bağlantısı"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:79
+msgid "Button Style"
+msgstr "Düğme Stili"
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:83
+msgid "Button text?"
+msgstr "Düğme metni?"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:61
+msgid "Button Title"
+msgstr "Düğme Başlığı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:247
+msgid "Buy Now"
+msgstr "Şimdi satın al"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:245
+msgid "Buy/Renew Now"
+msgstr "Şimdi Satın Al / Yenile"
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:65
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:53
+#: vc_custom/shortcodes/sp-featured-listing/core.php:53
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:53
+#: vc_custom/shortcodes/sp-recent-ads/core.php:53
+#: vc_custom/shortcodes/sp-recent-questions/core.php:53
+msgid "By Categories"
+msgstr "Kategoriye göre"
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:66
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:54
+#: vc_custom/shortcodes/sp-recent-questions/core.php:54
+msgid "By Posts"
+msgstr "Gönderiye göre"
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:54
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:54
+msgid "By Users"
+msgstr "Kullanıcılara göre"
+
+#: vc_custom/shortcodes/sp-call-to-action/core.php:25
+msgid "Call To Action"
+msgstr "Call To Action"
+
+#: vc_custom/shortcodes/sp-call-to-action/core.php:61
+msgid "Call to action Image"
+msgstr "Call to action Resmi"
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:158
+#: vc_custom/shortcodes/sp-recent-questions/skin.php:170
+msgid "category"
+msgstr "kategori"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:55
+#: vc_custom/shortcodes/sp-blog-posts/core.php:55
+msgid "Choose Blog view."
+msgstr "Blog görünümünü seç."
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:197
+msgid "Choose city"
+msgstr "Şehir seç"
+
+#: vc_custom/shortcodes/sp-services/core.php:81
+#: vc_custom/shortcodes/sp-services/core.php:114
+#: vc_custom/shortcodes/sp-services-2/core.php:62
+msgid "Choose color for the count text"
+msgstr "Sayım metni için renk seç"
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:71
+msgid "Choose color for title and sub title"
+msgstr "Başlık ve alt başlık için renk seç"
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:55
+#: vc_custom/shortcodes/sp-search-form-3/core.php:55
+msgid "Choose color for title and sub title "
+msgstr "Başlık ve alt başlık için renk seçiniz "
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:189
+msgid "Choose Country"
+msgstr "Ülke Seç"
+
+#: vc_custom/shortcodes/sp-counter/core.php:39
+msgid "Choose text color for"
+msgstr "İçin metin rengini seç"
+
+#: vc_custom/shortcodes/sp-cities/skin.php:97
+msgid "City Image"
+msgstr "Şehir Fotografı"
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:53
+#: vc_custom/shortcodes/sp-services/core.php:79
+#: vc_custom/shortcodes/sp-services-2/core.php:60
+msgid "Color"
+msgstr "Renk"
+
+#: vc_custom/shortcodes/sp-partners/core.php:60
+msgid "Company Name"
+msgstr "Şirket Adı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:226
+msgid "Contact informations"
+msgstr "İletişim bilgileri"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:205
+msgid "Control scroll buttons true/false"
+msgstr "Kontrol kaydırma düğmeleri doğru / yanlış"
+
+#: vc_custom/shortcodes/sp-counter/core.php:76
+msgid "Counter Speed"
+msgstr "Sayaç Hızı"
+
+#: vc_custom/shortcodes/sp-counter/core.php:52
+msgid "Counter Title"
+msgstr "Sayaç Başlığı"
+
+#: vc_custom/shortcodes/sp-counter/core.php:60
+msgid "Counter Value From"
+msgstr "Sayaç Değeri"
+
+#: vc_custom/shortcodes/sp-counter/core.php:68
+msgid "Counter Value To"
+msgstr "Sayaç Değeri"
+
+#: vc_custom/shortcodes/sp-counter/core.php:44
+msgid "Counters"
+msgstr "Sayaçlar"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:135
+#: vc_custom/shortcodes/sp-search-form-2/core.php:62
+#: vc_custom/shortcodes/sp-search-form-3/core.php:70
+msgid "Countries list"
+msgstr "Ülke listesi"
+
+#: vc_custom/shortcodes/sp-contries/skin.php:88
+msgid "Country Image"
+msgstr "Şehir Fotoğrafı"
+
+#: vc_custom/core.php:49
+msgid "Css"
+msgstr "Css"
+
+#: vc_custom/shortcodes/sp-articles/core.php:109
+#: vc_custom/shortcodes/sp-blog-posts/core.php:159
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:142
+#: vc_custom/shortcodes/sp-featured-banner/core.php:66
+#: vc_custom/shortcodes/sp-featured-listing/core.php:120
+#: vc_custom/shortcodes/sp-recent-questions/core.php:136
+#: vc_custom/shortcodes/sp-service-providers/core.php:74
+msgid "Custom Columns"
+msgstr "Özel Stunlar"
+
+#: vc_custom/shortcodes/sp-packages/core.php:54
+msgid "Customers"
+msgstr "Müşteriler"
+
+#: vc_custom/shortcodes/sp-counter/core.php:84
+msgid "Data Refresh Interval"
+msgstr "Veri Yenileme Aralığı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:150
+#: vc_custom/shortcodes/sp-packages/skin.php:165
+#: vc_custom/shortcodes/sp-packages/skin.php:238
+msgid "days"
+msgstr "günler"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:89
+msgid "Default"
+msgstr "Varsayılan"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:66
+msgid "Default is .16"
+msgstr "Varsayılan : 16"
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:62
+msgid "Default is .18"
+msgstr ""
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:78
+#: vc_custom/shortcodes/sp-articles/core.php:66
+#: vc_custom/shortcodes/sp-blog-posts/core.php:116
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:104
+#: vc_custom/shortcodes/sp-categories-v3/core.php:93
+#: vc_custom/shortcodes/sp-featured-banner/core.php:50
+#: vc_custom/shortcodes/sp-featured-listing/core.php:93
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:93
+#: vc_custom/shortcodes/sp-recent-ads/core.php:81
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:61
+#: vc_custom/shortcodes/sp-recent-questions/core.php:93
+#: vc_custom/shortcodes/sp-service-providers/core.php:58
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:58
+msgid "Default is .6"
+msgstr "Varsayılan : 6"
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:105
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:93
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:50
+msgid "Default is .60"
+msgstr "Varsayılan : 60"
+
+#: vc_custom/shortcodes/sp-categories/core.php:70
+msgid "Default is .9"
+msgstr "Varsayılan : 9"
+
+#: vc_custom/shortcodes/sp-articles/core.php:87
+#: vc_custom/shortcodes/sp-blog-posts/core.php:137
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:120
+#: vc_custom/shortcodes/sp-categories/core.php:91
+#: vc_custom/shortcodes/sp-categories-v3/core.php:65
+#: vc_custom/shortcodes/sp-featured-banner/core.php:60
+#: vc_custom/shortcodes/sp-featured-listing/core.php:114
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:114
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:71
+#: vc_custom/shortcodes/sp-recent-questions/core.php:114
+msgid "DESC"
+msgstr "Azalan"
+
+#: vc_custom/shortcodes/sp-articles/core.php:45
+#: vc_custom/shortcodes/sp-blog-posts/core.php:45
+#: vc_custom/shortcodes/sp-call-to-action/core.php:53
+#: vc_custom/shortcodes/sp-categories/core.php:45
+#: vc_custom/shortcodes/sp-cities/core.php:45
+#: vc_custom/shortcodes/sp-contact-form/core.php:45
+#: vc_custom/shortcodes/sp-contries/core.php:45
+#: vc_custom/shortcodes/sp-featured-listing/core.php:45
+#: vc_custom/shortcodes/sp-gallery/core.php:45
+#: vc_custom/shortcodes/sp-recent-ads/core.php:45
+#: vc_custom/shortcodes/sp-recent-questions/core.php:45
+#: vc_custom/shortcodes/sp-service-providers/core.php:45
+#: vc_custom/shortcodes/sp-slider/core.php:72
+#: vc_custom/shortcodes/sp-slider/core.php:154
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:45
+#: vc_custom/shortcodes/sp-timeline/core.php:45
+#: vc_custom/shortcodes/sp-video/core.php:45
+msgid "Description"
+msgstr "Açıklama"
+
+#: vc_custom/core.php:51
+msgid "Design options"
+msgstr "Tasarım seçenekleri"
+
+#: vc_custom/shortcodes/sp-slider/core.php:188
+#: vc_custom/shortcodes/sp-slider/core.php:232
+#: vc_custom/shortcodes/sp-slider/core.php:243
+#: vc_custom/shortcodes/sp-testimonials/core.php:41
+msgid "Disable"
+msgstr "Devre Dışı"
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:72
+#: vc_custom/shortcodes/sp-search-question/skin.php:89
+msgid "E.g. I am a 25yr old male &amp; have backache for last 2 months"
+msgstr "LPG ayarını hangi sıklıkla yaptırmalıyım"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:39
+msgid "Each post will serve as a slide"
+msgstr "Her yayın bir slayt işlevi görecek"
+
+#: vc_custom/shortcodes/sp-slider/core.php:189
+#: vc_custom/shortcodes/sp-slider/core.php:233
+#: vc_custom/shortcodes/sp-slider/core.php:244
+#: vc_custom/shortcodes/sp-testimonials/core.php:40
+msgid "Enable"
+msgstr "Etkinleştir"
+
+#: vc_custom/shortcodes/sp-slider/core.php:186
+msgid "Enable or Disable search form."
+msgstr "Arama formunu etkinleştir veya devre dışı bırak."
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:77
+msgid "Enable sub categories in search form?"
+msgstr "Arama formunda alt kategorileri etkinleştirin?"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:155
+msgid "Enable/Disbale Mouse over scroll."
+msgstr "Fare üzerinde kaydırmayı Etkinleştir/Devre Dışı Bırak."
+
+#: vc_custom/shortcodes/sp-slider/core.php:219
+msgid "Enter form button title here."
+msgstr "Buraya form düğme başlığını girin."
+
+#: vc_custom/shortcodes/sp-slider/core.php:203
+msgid "Enter form title here."
+msgstr "Form başlığını buraya giriniz."
+
+#: vc_custom/shortcodes/sp-google-map/core.php:103
+msgid "Enter the marker content."
+msgstr "İşaretçi içeriğini girin."
+
+#: vc_custom/shortcodes/sp-newsletter-v2/skin.php:81
+msgid "Enter Your Email"
+msgstr "E-postanızı giriniz"
+
+#: vc_custom/core.php:65
+msgid "Entypo"
+msgstr "Entypo"
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:151
+msgid "EV"
+msgstr "EV"
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:99
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:87
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:44
+msgid "Excerpt Length"
+msgstr "Alıntı Uzunluğu"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:97
+#: vc_custom/shortcodes/sp-home-slider/core.php:107
+#: vc_custom/shortcodes/sp-home-slider/core.php:117
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:146
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:157
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:168
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:179
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:190
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:201
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:96
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:106
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:116
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:92
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:102
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:112
+msgid "False"
+msgstr "Yanlış"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:92
+#: vc_custom/shortcodes/sp-search-form-3/core.php:103
+#: vc_custom/shortcodes/sp-search-form-3/core.php:114
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:100
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:111
+msgid "false"
+msgstr "yanlış"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:159
+#: vc_custom/shortcodes/sp-packages/skin.php:162
+msgid "Favorites Listings"
+msgstr "Sık Kullanılanlar Listeleri"
+
+#: vc_custom/shortcodes/sp-featured-banner/skin.php:131
+msgid "Featured"
+msgstr "Öne Çıkan"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:238
+msgid "Featured ad for"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:235
+msgid "Featured ADS"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:233
+msgid "Featured ADS out of"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:165
+msgid "Featured listing for"
+msgstr "Öne çıkan liste"
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:25
+msgid "Featured Users V2"
+msgstr "Öne Çıkan Kullanıcılar V2"
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:211
+msgid "Find Only With Profile Photo"
+msgstr "Sadece Profil Fotoğrafı Olanları Bul"
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:80
+msgid "Five Star"
+msgstr "Beş yıldız"
+
+#: vc_custom/core.php:62
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:150
+msgid "for"
+msgstr "için"
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:61
+msgid "Form Button Text"
+msgstr "Form Düğme Metni"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:73
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:109
+#: vc_custom/shortcodes/sp-slider/core.php:217
+msgid "Form button text"
+msgstr "Form düğme metni"
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:37
+msgid "Form Heading"
+msgstr "Form başlığı"
+
+#: vc_custom/shortcodes/sp-search-question/core.php:45
+msgid "Form image that would be displayed before the heading"
+msgstr "Başlıktan önce görüntülenecek form görüntüsü"
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:45
+msgid "Form Sub Heading"
+msgstr "Form Alt Başlığı"
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:45
+msgid "Form Sub title"
+msgstr "Form alt başlığı"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:55
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:91
+msgid "Form sub title"
+msgstr "Form alt başlığı"
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:53
+#: vc_custom/shortcodes/sp-search-form/core.php:37
+#: vc_custom/shortcodes/sp-search-form-2/core.php:37
+#: vc_custom/shortcodes/sp-search-question/core.php:37
+#: vc_custom/shortcodes/sp-slider/core.php:201
+msgid "Form Title"
+msgstr "Form Başlığı"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:64
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:100
+msgid "Form title"
+msgstr "Form başlığı"
+
+#: vc_custom/shortcodes/sp-authentication/core.php:36
+msgid "Form Type"
+msgstr "Form Türü"
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:79
+msgid "Four Star"
+msgstr "Dört yıldız"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:134
+#: vc_custom/shortcodes/sp-search-form-2/core.php:61
+#: vc_custom/shortcodes/sp-search-form-3/core.php:69
+msgid "Geo location?"
+msgstr "Coğrafi konum?"
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:142
+msgid "Get A Professional Help"
+msgstr "Profesyonel Bir Yardım Alın"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:57
+#: vc_custom/shortcodes/sp-blog-posts/core.php:57
+msgid "Grid View"
+msgstr "Izgara Görünümü"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:37
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:37
+#: vc_custom/shortcodes/sp-call-to-action/core.php:37
+#: vc_custom/shortcodes/sp-categories/core.php:37
+#: vc_custom/shortcodes/sp-cities/core.php:37
+#: vc_custom/shortcodes/sp-contact-form/core.php:37
+#: vc_custom/shortcodes/sp-contries/core.php:37
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:37
+#: vc_custom/shortcodes/sp-gallery/core.php:37
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:37
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:37
+#: vc_custom/shortcodes/sp-timeline/core.php:37
+msgid "Heading"
+msgstr "Başlık"
+
+#: vc_custom/shortcodes/sp-video/core.php:60
+msgid "Height of iframe"
+msgstr "Çerçeve yüksekliği"
+
+#: vc_custom/shortcodes/sp-services/core.php:69
+msgid "Hide count?"
+msgstr "Sayımı gizle?"
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/themographics"
+msgstr "https://themeforest.net/user/themographics"
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/themographics/portfolio"
+msgstr "https://themeforest.net/user/themographics/portfolio"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:76
+msgid "HYBRID"
+msgstr "KARMA"
+
+#: vc_custom/core.php:81 vc_custom/core.php:99 vc_custom/core.php:118
+#: vc_custom/core.php:137 vc_custom/core.php:155 vc_custom/core.php:174
+#: vc_custom/core.php:194 vc_custom/core.php:214 vc_custom/core.php:233
+msgid "Icon"
+msgstr "Simge"
+
+#: vc_custom/core.php:60
+msgid "Icon library"
+msgstr "Simge kütüphanesi"
+
+#: vc_custom/shortcodes/sp-services/core.php:91
+msgid "Icon?"
+msgstr "Simge?"
+
+#: vc_custom/shortcodes/sp-slider/skin.php:432
+msgid "Image"
+msgstr "görüntü"
+
+#: vc_custom/shortcodes/sp-services/core.php:92
+msgid "Image?"
+msgstr "Resim?"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:179
+#: vc_custom/shortcodes/sp-packages/skin.php:182
+msgid "Insurance Fields"
+msgstr "Sigorta Alanları"
+
+#: vc_custom/shortcodes/sp-counter/core.php:86
+msgid "interval of data or increment of values in the counter e.g 50, 100 etc"
+msgstr "Sayaçtaki veri aralığı veya değerlerin artması, örneğin 50, 100 vb."
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:183
+#: vc_custom/shortcodes/sp-recent-question-slider/skin.php:129
+#: vc_custom/shortcodes/sp-recent-questions/skin.php:195
+msgid "Is this helpful?"
+msgstr "Bu yararlı oldu mu?"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:45
+msgid "Latitude"
+msgstr "Enlem"
+
+#: vc_custom/shortcodes/sp-articles/core.php:115
+#: vc_custom/shortcodes/sp-blog-posts/core.php:165
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:148
+#: vc_custom/shortcodes/sp-featured-banner/core.php:72
+#: vc_custom/shortcodes/sp-featured-listing/core.php:126
+#: vc_custom/shortcodes/sp-recent-questions/core.php:142
+#: vc_custom/shortcodes/sp-service-providers/core.php:80
+msgid "Leave it default"
+msgstr "Varsayılan olarak bırak"
+
+#: vc_custom/core.php:69
+msgid "Linear Icon"
+msgstr "Doğrusal Simge"
+
+#: vc_custom/core.php:66
+msgid "Linecons"
+msgstr "Linecons"
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:110
+#: vc_custom/shortcodes/sp-partners/core.php:73
+#: vc_custom/shortcodes/sp-services/core.php:128
+#: vc_custom/shortcodes/sp-services-2/core.php:88
+#: vc_custom/shortcodes/sp-text-block/core.php:52
+msgid "Link"
+msgstr "Bağlantı"
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:82
+msgid "Link Target"
+msgstr "Bağlantı hedefi"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:58
+#: vc_custom/shortcodes/sp-blog-posts/core.php:58
+msgid "List View"
+msgstr "Liste Görünümü"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:31
+#: vc_custom/shortcodes/sp-articles/core.php:31
+#: vc_custom/shortcodes/sp-authentication/core.php:31
+#: vc_custom/shortcodes/sp-blog-posts/core.php:31
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:31
+#: vc_custom/shortcodes/sp-call-to-action/core.php:31
+#: vc_custom/shortcodes/sp-categories/core.php:31
+#: vc_custom/shortcodes/sp-categories-v3/core.php:31
+#: vc_custom/shortcodes/sp-cities/core.php:31
+#: vc_custom/shortcodes/sp-contact-form/core.php:31
+#: vc_custom/shortcodes/sp-contries/core.php:31
+#: vc_custom/shortcodes/sp-counter/core.php:31
+#: vc_custom/shortcodes/sp-featured-banner/core.php:31
+#: vc_custom/shortcodes/sp-featured-listing/core.php:31
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:31
+#: vc_custom/shortcodes/sp-gallery/core.php:31
+#: vc_custom/shortcodes/sp-google-map/core.php:31
+#: vc_custom/shortcodes/sp-home-slider/core.php:31
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:31
+#: vc_custom/shortcodes/sp-newsletter/core.php:31
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:31
+#: vc_custom/shortcodes/sp-packages/core.php:31
+#: vc_custom/shortcodes/sp-partners/core.php:31
+#: vc_custom/shortcodes/sp-post-questions/core.php:31
+#: vc_custom/shortcodes/sp-recent-ads/core.php:31
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:31
+#: vc_custom/shortcodes/sp-recent-questions/core.php:31
+#: vc_custom/shortcodes/sp-search-form/core.php:31
+#: vc_custom/shortcodes/sp-search-form-2/core.php:31
+#: vc_custom/shortcodes/sp-search-form-3/core.php:31
+#: vc_custom/shortcodes/sp-search-question/core.php:31
+#: vc_custom/shortcodes/sp-section-heading/core.php:31
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:31
+#: vc_custom/shortcodes/sp-service-providers/core.php:31
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:31
+#: vc_custom/shortcodes/sp-services/core.php:31
+#: vc_custom/shortcodes/sp-services-2/core.php:31
+#: vc_custom/shortcodes/sp-slider/core.php:31
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:31
+#: vc_custom/shortcodes/sp-testimonials/core.php:31
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:31
+#: vc_custom/shortcodes/sp-text-block/core.php:31
+#: vc_custom/shortcodes/sp-timeline/core.php:31
+#: vc_custom/shortcodes/sp-top-categories/core.php:31
+#: vc_custom/shortcodes/sp-trending-categories/core.php:31
+#: vc_custom/shortcodes/sp-video/core.php:31
+msgid "Listingo Addon"
+msgstr "Listingo Eklentileri"
+
+#. Name of the plugin
+msgid "Listingo VC Addon"
+msgstr "Listingo VC Eklentileri"
+
+#: vc_custom/shortcodes/sp-cities/skin.php:100
+#: vc_custom/shortcodes/sp-contries/skin.php:92
+msgid "Listings"
+msgstr "Listeler"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:137
+#: vc_custom/shortcodes/sp-search-form-2/core.php:64
+#: vc_custom/shortcodes/sp-search-form-3/core.php:72
+msgid "Location type"
+msgstr "Yer tipi"
+
+#: vc_custom/shortcodes/sp-authentication/core.php:42
+msgid "Login Form"
+msgstr "Giriş Formu"
+
+#: vc_custom/shortcodes/sp-authentication/core.php:51
+#: vc_custom/shortcodes/sp-authentication/core.php:77
+msgid "Login Title"
+msgstr "Giriş Başlığı"
+
+#: vc_custom/shortcodes/sp-partners/core.php:67
+msgid "Logo"
+msgstr "Logo"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:53
+msgid "Longitude"
+msgstr "Boylam"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:103
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:102
+#: vc_custom/shortcodes/sp-search-form-3/core.php:98
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:95
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:98
+msgid "Loop"
+msgstr "döngü"
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:25
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:131
+msgid "Map Controls"
+msgstr "Harita Kontrolleri"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:142
+msgid "Map Dragable"
+msgstr "Sürüklenebilir Harita"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:37
+msgid "Map height"
+msgstr "Harita yüksekliği"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:101
+msgid "Map Infobox content"
+msgstr "Harita Bilgisi kutusu içeriği"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:117
+msgid "Map Infobox height"
+msgstr "Harita Bilgi Kutusu yüksekliği"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:109
+msgid "Map Infobox width"
+msgstr "Harita Bilgi Kutusu genişliği"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:84
+msgid "Map Style"
+msgstr "Harita Stili"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:71
+msgid "Map Type"
+msgstr "Harita Türü"
+
+#: vc_custom/core.php:68
+msgid "Material"
+msgstr "Malzeme"
+
+#: vc_custom/shortcodes/providers-by-cats/skin.php:294
+msgid "Member since"
+msgstr "Den beri üye"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:221
+msgid "Misc :"
+msgstr "Misc:"
+
+#: vc_custom/core.php:67
+msgid "Mono Social"
+msgstr "Mono Sosyal"
+
+#: vc_custom/shortcodes/providers-by-cats/skin.php:272
+#: vc_custom/shortcodes/providers-by-cats/skin.php:277
+msgid "more"
+msgstr "Daha"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:93
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:92
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:88
+msgid "Navigation"
+msgstr "Navigasyon"
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:152
+msgid "NE"
+msgstr "NE"
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:25
+msgid "News Letter V2"
+msgstr "Haber Mektubu V2"
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:125
+msgid "NO"
+msgstr "YOK HAYIR"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:147
+#: vc_custom/shortcodes/sp-google-map/core.php:158
+#: vc_custom/shortcodes/sp-newsletter/core.php:65
+#: vc_custom/shortcodes/sp-post-questions/core.php:50
+#: vc_custom/shortcodes/sp-search-form-2/core.php:72
+msgid "No"
+msgstr "Hayır"
+
+#: vc_custom/shortcodes/sp-recent-ads/skin.php:159
+msgid "No ads found."
+msgstr ""
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:75
+msgid "no of ads"
+msgstr "reklam yok"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:72
+#: vc_custom/shortcodes/sp-articles/core.php:60
+#: vc_custom/shortcodes/sp-blog-posts/core.php:110
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:98
+#: vc_custom/shortcodes/sp-categories/core.php:64
+#: vc_custom/shortcodes/sp-categories-v3/core.php:87
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:55
+#: vc_custom/shortcodes/sp-recent-questions/core.php:87
+#: vc_custom/shortcodes/sp-service-providers/core.php:52
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:52
+msgid "No of posts"
+msgstr "Gönderi sayısı"
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:56
+msgid "No of question?"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/core.php:44
+#: vc_custom/shortcodes/sp-featured-listing/core.php:87
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:87
+msgid "No of users"
+msgstr "Kullanıcı sayısı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:255
+msgid "No package added yet."
+msgstr "Henüz paket eklenmedi."
+
+#: vc_custom/core.php:29
+msgid "No such array field exists."
+msgstr "Böyle bir dizi alanı yok."
+
+#: vc_custom/shortcodes/providers-by-cats/skin.php:293
+msgid "No. of views"
+msgstr "Gösterim sayısı"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:88
+msgid "NONE"
+msgstr "YOK"
+
+#: vc_custom/shortcodes/sp-featured-listing/skin.php:273
+#: vc_custom/shortcodes/sp-featured-listing-v2/skin.php:198
+msgid "Nothing found."
+msgstr "Hiç bir şey bulunamadı."
+
+#: vc_custom/shortcodes/sp-packages/skin.php:231
+msgid "Number of ADS"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-packages/skin.php:197
+#: vc_custom/shortcodes/sp-packages/skin.php:200
+msgid "Number of articles"
+msgstr "Makale sayısı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:215
+msgid "Number of banner photos"
+msgstr "Afiş fotoğraf sayısı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:208
+#: vc_custom/shortcodes/sp-packages/skin.php:211
+msgid "Number of gallery photos"
+msgstr "Galeri fotoğraflarının sayısı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:154
+msgid "Number of job(s)"
+msgstr "İş (ler) sayısı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:214
+msgid "Number of profile photos"
+msgstr "Profil fotoğraflarının sayısı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:219
+#: vc_custom/shortcodes/sp-packages/skin.php:222
+msgid "Number of video links"
+msgstr "Video bağlantısı sayısı"
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:91
+msgid "OFF"
+msgstr "KAPALI"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:135
+msgid "Off"
+msgstr "Kapalı"
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:90
+msgid "ON"
+msgstr "AÇIK"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:136
+msgid "On"
+msgstr "Açık"
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:76
+msgid "One Star"
+msgstr "Bir yıldız"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:226
+msgid "Online Appointment"
+msgstr "Online Randevu"
+
+#: vc_custom/core.php:63
+msgid "Open Iconic"
+msgstr "Open Iconic"
+
+#: vc_custom/shortcodes/sp-articles/core.php:93
+#: vc_custom/shortcodes/sp-blog-posts/core.php:143
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:126
+#: vc_custom/shortcodes/sp-categories/core.php:97
+#: vc_custom/shortcodes/sp-categories-v3/core.php:71
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:131
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:77
+#: vc_custom/shortcodes/sp-recent-questions/core.php:120
+msgid "Order By"
+msgstr "Sırala"
+
+#: vc_custom/shortcodes/sp-articles/core.php:98
+#: vc_custom/shortcodes/sp-blog-posts/core.php:148
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:131
+#: vc_custom/shortcodes/sp-categories/core.php:102
+#: vc_custom/shortcodes/sp-categories-v3/core.php:76
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:136
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:82
+#: vc_custom/shortcodes/sp-recent-questions/core.php:125
+msgid "Order by author"
+msgstr "Yazara göre sırala"
+
+#: vc_custom/shortcodes/sp-articles/core.php:101
+#: vc_custom/shortcodes/sp-blog-posts/core.php:151
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:134
+#: vc_custom/shortcodes/sp-categories/core.php:105
+#: vc_custom/shortcodes/sp-categories-v3/core.php:79
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:139
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:85
+#: vc_custom/shortcodes/sp-recent-questions/core.php:128
+msgid "Order by date"
+msgstr "Tarihe göre sırala"
+
+#: vc_custom/shortcodes/sp-articles/core.php:102
+#: vc_custom/shortcodes/sp-blog-posts/core.php:152
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:135
+#: vc_custom/shortcodes/sp-categories/core.php:106
+#: vc_custom/shortcodes/sp-categories-v3/core.php:80
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:140
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:86
+#: vc_custom/shortcodes/sp-recent-questions/core.php:129
+msgid "Order by last modified date"
+msgstr "Son değiştirilme tarihine göre sırala"
+
+#: vc_custom/shortcodes/sp-articles/core.php:97
+#: vc_custom/shortcodes/sp-blog-posts/core.php:147
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:130
+#: vc_custom/shortcodes/sp-categories/core.php:101
+#: vc_custom/shortcodes/sp-categories-v3/core.php:75
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:135
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:81
+#: vc_custom/shortcodes/sp-recent-questions/core.php:124
+msgid "Order by post id"
+msgstr "Gönderi kimliğine göre sırala"
+
+#: vc_custom/shortcodes/sp-articles/core.php:100
+#: vc_custom/shortcodes/sp-blog-posts/core.php:150
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:133
+#: vc_custom/shortcodes/sp-categories/core.php:104
+#: vc_custom/shortcodes/sp-categories-v3/core.php:78
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:138
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:84
+#: vc_custom/shortcodes/sp-recent-questions/core.php:127
+msgid "Order by post name"
+msgstr "Gönderi adına göre sırala"
+
+#: vc_custom/shortcodes/sp-articles/core.php:99
+#: vc_custom/shortcodes/sp-blog-posts/core.php:149
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:132
+#: vc_custom/shortcodes/sp-categories/core.php:103
+#: vc_custom/shortcodes/sp-categories-v3/core.php:77
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:137
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:83
+#: vc_custom/shortcodes/sp-recent-questions/core.php:126
+msgid "Order by title"
+msgstr "Başlığa göre sırala"
+
+#: vc_custom/shortcodes/sp-packages/core.php:25
+msgid "Packages"
+msgstr "Paketler"
+
+#: vc_custom/shortcodes/sp-packages/core.php:47
+msgid "Packages sub title goes here"
+msgstr "Paketler alt başlığı buraya gider"
+
+#: vc_custom/shortcodes/sp-packages/core.php:39
+msgid "Packages title goes here"
+msgstr "Paketler başlığı burada gider"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:204
+msgid "Page Design"
+msgstr "Sayfa Tasarımı"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:87
+msgid "Pagination"
+msgstr "sayfalara numara koyma"
+
+#: vc_custom/shortcodes/sp-partners/core.php:52
+msgid "Partners"
+msgstr "İş Ortakları"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:181
+msgid "Pause on hover"
+msgstr "fareyle üzerine gelip Duraklat"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:183
+msgid "Pause on hover true/false"
+msgstr "Hover'da duraklat doğru / yanlış"
+
+#: vc_custom/shortcodes/sp-contact-form/core.php:54
+msgid "Please select contact form to show"
+msgstr "Göstermek için lütfen iletişim formu seçiniz"
+
+#: vc_custom/shortcodes/sp-services/core.php:73
+msgid "Please select count type."
+msgstr "Lütfen sayı tipini seçiniz."
+
+#: vc_custom/shortcodes/sp-services/core.php:96
+msgid ""
+"Please select icon or image as per your needs. Only selected will be shown"
+msgstr ""
+"İhtiyaçlarınıza göre ikon veya resim seçiniz. Sadece seçili olan "
+"gösterilecektir"
+
+#: vc_custom/shortcodes/sp-packages/core.php:58
+msgid "Please select package type."
+msgstr "Lütfen paket tipini seçiniz."
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:70
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:58
+msgid "Please select posts selection type."
+msgstr "Lütfen gönderi seçim tipini seçiniz."
+
+#: vc_custom/shortcodes/sp-articles/core.php:54
+#: vc_custom/shortcodes/sp-blog-posts/core.php:89
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:77
+#: vc_custom/shortcodes/sp-categories/core.php:54
+#: vc_custom/shortcodes/sp-categories-v3/core.php:54
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:38
+#: vc_custom/shortcodes/sp-search-form-3/core.php:81
+#: vc_custom/shortcodes/sp-top-categories/core.php:54
+#: vc_custom/shortcodes/sp-trending-categories/core.php:46
+msgid "Please select posts to show"
+msgstr "Lütfen gösterilecek gönderileri seçin"
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:58
+msgid "Please select questions selection type."
+msgstr "Lütfen soru seçim tipini seçiniz."
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:77
+msgid "Please select questions to show"
+msgstr "Lütfen gösterilecek soruları seçin"
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:105
+msgid "Please select style view."
+msgstr "Lütfen stil görünümünü seçiniz."
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:58
+msgid "Please select type show ads."
+msgstr "Lütfen gösteri tipi reklamları seçin."
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:58
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:58
+msgid "Please select users selection type."
+msgstr "Lütfen kullanıcı seçim tipini seçiniz."
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:77
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:77
+msgid "Please select users to show"
+msgstr "Lütfen gösterilecek kullanıcıları seçin"
+
+#: vc_custom/shortcodes/sp-articles/core.php:82
+#: vc_custom/shortcodes/sp-articles/core.php:84
+#: vc_custom/shortcodes/sp-articles/core.php:95
+#: vc_custom/shortcodes/sp-blog-posts/core.php:132
+#: vc_custom/shortcodes/sp-blog-posts/core.php:134
+#: vc_custom/shortcodes/sp-blog-posts/core.php:145
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:115
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:117
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:128
+#: vc_custom/shortcodes/sp-categories/core.php:86
+#: vc_custom/shortcodes/sp-categories/core.php:88
+#: vc_custom/shortcodes/sp-categories/core.php:99
+#: vc_custom/shortcodes/sp-categories-v3/core.php:60
+#: vc_custom/shortcodes/sp-categories-v3/core.php:62
+#: vc_custom/shortcodes/sp-categories-v3/core.php:73
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:66
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:68
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:79
+#: vc_custom/shortcodes/sp-recent-questions/core.php:109
+#: vc_custom/shortcodes/sp-recent-questions/core.php:111
+#: vc_custom/shortcodes/sp-recent-questions/core.php:122
+msgid "Post Order"
+msgstr "Gönderi Sıralaması"
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:151
+msgid "PR"
+msgstr "PR"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:241
+msgid "Private Chat"
+msgstr ""
+
+#: vc_custom/shortcodes/sp-featured-banner/skin.php:168
+msgid "Profile Avatar"
+msgstr "Profil Resmi"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:175
+msgid "Profile Banner"
+msgstr "Profil Banner"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:170
+msgid "Progress"
+msgstr "İlerleme"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:172
+msgid "Progress true/false"
+msgstr "İlerleme doğru / yanlış"
+
+#: vc_custom/shortcodes/sp-featured-banner/skin.php:132
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:56
+#: vc_custom/shortcodes/sp-packages/core.php:53
+msgid "Providers"
+msgstr "Servis Sağlayıcıları"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:25
+msgid "Providers By Categories"
+msgstr "Kategorilere Göre Tedarikçiler"
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:209
+msgid "Question title"
+msgstr "Soru başlığı"
+
+#: vc_custom/shortcodes/sp-articles/core.php:103
+#: vc_custom/shortcodes/sp-blog-posts/core.php:153
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:136
+#: vc_custom/shortcodes/sp-categories/core.php:107
+#: vc_custom/shortcodes/sp-categories-v3/core.php:81
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:141
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:87
+#: vc_custom/shortcodes/sp-recent-questions/core.php:130
+msgid "Random order"
+msgstr "Rastgele sırala"
+
+#: vc_custom/shortcodes/sp-blog-posts/skin.php:307
+#: vc_custom/shortcodes/sp-blog-posts-v2/skin.php:150
+msgid "read more"
+msgstr "devamı"
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:25
+msgid "Recent Ads"
+msgstr "En Son Reklamlar"
+
+#: vc_custom/shortcodes/sp-authentication/core.php:43
+msgid "Register Form"
+msgstr "Kayıt Formu"
+
+#: vc_custom/shortcodes/sp-authentication/core.php:64
+#: vc_custom/shortcodes/sp-authentication/core.php:90
+msgid "Register Title"
+msgstr "Kayıt Başlığı"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:192
+msgid "Responsive"
+msgstr "duyarlı"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:194
+msgid "Responsive true/false"
+msgstr "Duyarlı doğru / yanlış"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:75
+msgid "ROADMAP"
+msgstr "YOL HARİTASI"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:77
+msgid "SATELLITE"
+msgstr "UYDU"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:153
+msgid "Scroll"
+msgstr "Kaydır"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:203
+msgid "Scroll buttons"
+msgstr "Kaydırma düğmeleri"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:25
+msgid "Search Ads and Providers"
+msgstr "Reklamları ve Sağlayıcıları Ara"
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:153
+msgid "Search Category"
+msgstr "Kategorilerde Ara"
+
+#: vc_custom/shortcodes/sp-search-form/skin.php:217
+#: vc_custom/shortcodes/sp-slider/skin.php:245
+#: vc_custom/shortcodes/sp-slider/skin.php:399
+msgid "Search Now"
+msgstr "Şimdi Ara"
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:45
+#: vc_custom/shortcodes/sp-newsletter/core.php:45
+#: vc_custom/shortcodes/sp-partners/core.php:45
+#: vc_custom/shortcodes/sp-section-heading/core.php:45
+#: vc_custom/shortcodes/sp-services/core.php:45
+#: vc_custom/shortcodes/sp-services-2/core.php:45
+#: vc_custom/shortcodes/sp-text-block/core.php:45
+msgid "Section Description"
+msgstr "Bölüm Açıklaması"
+
+#: vc_custom/shortcodes/sp-articles/core.php:37
+#: vc_custom/shortcodes/sp-blog-posts/core.php:37
+#: vc_custom/shortcodes/sp-featured-listing/core.php:37
+#: vc_custom/shortcodes/sp-recent-ads/core.php:37
+#: vc_custom/shortcodes/sp-recent-questions/core.php:37
+#: vc_custom/shortcodes/sp-service-providers/core.php:37
+#: vc_custom/shortcodes/sp-top-categories/core.php:37
+msgid "Section Heading"
+msgstr "Bölüm Başlığı"
+
+#: vc_custom/shortcodes/sp-top-categories/core.php:45
+msgid "Section Sub-Heading"
+msgstr "Bölüm Alt Başlık"
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:37
+#: vc_custom/shortcodes/sp-newsletter/core.php:37
+#: vc_custom/shortcodes/sp-partners/core.php:37
+#: vc_custom/shortcodes/sp-post-questions/core.php:37
+#: vc_custom/shortcodes/sp-section-heading/core.php:37
+#: vc_custom/shortcodes/sp-services/core.php:37
+#: vc_custom/shortcodes/sp-services-2/core.php:37
+#: vc_custom/shortcodes/sp-text-block/core.php:37
+#: vc_custom/shortcodes/sp-trending-categories/core.php:37
+msgid "Section Title"
+msgstr "Bölüm Başlığı"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:119
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:118
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:114
+msgid "Select autoplay to be true or false for the slider"
+msgstr "Kaydırıcı için true veya false olmak üzere otomatik oynatmayı seçin"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:85
+msgid "Select button style you want"
+msgstr "İstediğiniz düğme stilini seçin"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:64
+#: vc_custom/shortcodes/sp-blog-posts/core.php:75
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:63
+#: vc_custom/shortcodes/sp-featured-banner/core.php:36
+#: vc_custom/shortcodes/sp-featured-listing/core.php:63
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:63
+#: vc_custom/shortcodes/sp-recent-ads/core.php:63
+#: vc_custom/shortcodes/sp-recent-questions/core.php:63
+msgid "Select Categories"
+msgstr "Kategorileri Seç"
+
+#: vc_custom/shortcodes/sp-recent-ads/core.php:65
+msgid "Select Categories to show ads."
+msgstr "Reklamları göstermek için Kategoriler'i seçin."
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:77
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:65
+msgid "Select Categories to show posts from selected categories."
+msgstr ""
+"Seçilen kategorilerdeki gönderileri göstermek için Kategoriler'i seçin."
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:65
+msgid "Select Categories to show questions from selected categories."
+msgstr "Seçilen kategorilerdeki soruları göstermek için Kategoriler'i seçin."
+
+#: vc_custom/shortcodes/sp-featured-banner/core.php:38
+#: vc_custom/shortcodes/sp-featured-listing/core.php:65
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:65
+msgid "Select Categories to show users from selected categories."
+msgstr ""
+"Seçilen kategorilerdeki kullanıcıları göstermek için Kategoriler'i seçin."
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:214
+#: vc_custom/shortcodes/sp-search-question/skin.php:158
+msgid "Select Category"
+msgstr "Kategori Seç"
+
+#: vc_custom/shortcodes/sp-cities/core.php:52
+msgid "Select Cities"
+msgstr "Şehir Seç"
+
+#: vc_custom/shortcodes/sp-cities/core.php:54
+msgid "Select cities to show."
+msgstr "Gösterilecek şehirleri seç."
+
+#: vc_custom/shortcodes/sp-contact-form/core.php:52
+msgid "Select Contact Form"
+msgstr "İletişim Formu Seç"
+
+#: vc_custom/shortcodes/sp-contries/core.php:52
+msgid "Select Countries"
+msgstr "Ülke Seç"
+
+#: vc_custom/shortcodes/sp-contries/core.php:54
+msgid "Select countries to show."
+msgstr "Gösterilecek ülkeleri seç."
+
+#: vc_custom/shortcodes/sp-authentication/core.php:39
+msgid "Select form type."
+msgstr "Form tipini seçiniz."
+
+#: vc_custom/core.php:95 vc_custom/core.php:114 vc_custom/core.php:133
+#: vc_custom/core.php:170 vc_custom/core.php:189 vc_custom/core.php:209
+#: vc_custom/core.php:229 vc_custom/core.php:248
+msgid "Select icon from library."
+msgstr "Kütüphaneden simge seçin."
+
+#: vc_custom/core.php:77
+msgid "Select icon library."
+msgstr "Simge kütüphanesi seçin."
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:139
+#: vc_custom/shortcodes/sp-search-form-2/core.php:66
+#: vc_custom/shortcodes/sp-search-form-3/core.php:74
+msgid "Select location type."
+msgstr "Yer tipi seçin."
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:109
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:108
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:104
+msgid "Select loop to be true or false for the slider"
+msgstr "Kaydırıcı için doğru veya yanlış olmak için döngü seçin"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:133
+msgid "Select map controls."
+msgstr "Harita kontrollerini seçin."
+
+#: vc_custom/shortcodes/sp-google-map/core.php:144
+msgid "Select map dragable."
+msgstr "Sürüklenebilir haritayı seçin."
+
+#: vc_custom/shortcodes/sp-google-map/core.php:86
+msgid "Select map style. It will override map type."
+msgstr "Harita sitilini seç. Harita türünü geçersiz kılacaktır."
+
+#: vc_custom/shortcodes/sp-google-map/core.php:73
+msgid "Select map type"
+msgstr "Harita türünü seçin"
+
+#: vc_custom/shortcodes/sp-gallery/core.php:53
+msgid "Select multiple gallery images."
+msgstr "Birden fazla galeri resmi seçin."
+
+#: vc_custom/shortcodes/sp-slider/core.php:120
+msgid "Select multiple images."
+msgstr "Birden çok fotoğraf seçin."
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:99
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:98
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:94
+msgid "Select navigation to be true or false for the slider"
+msgstr "Kaydırıcı için doğru veya yanlış olması için gezinmeyi seçin"
+
+#: vc_custom/shortcodes/sp-articles/core.php:52
+#: vc_custom/shortcodes/sp-blog-posts/core.php:87
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:75
+#: vc_custom/shortcodes/sp-categories/core.php:52
+#: vc_custom/shortcodes/sp-categories-v3/core.php:52
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:36
+#: vc_custom/shortcodes/sp-search-form-3/core.php:79
+#: vc_custom/shortcodes/sp-top-categories/core.php:52
+#: vc_custom/shortcodes/sp-trending-categories/core.php:44
+msgid "Select Posts"
+msgstr "Gönderi Seç"
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:75
+msgid "Select Questions"
+msgstr "Soruları Seçin"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:37
+msgid "Select Slides"
+msgstr "Slaytlar Seç"
+
+#: vc_custom/shortcodes/sp-slider/core.php:36
+msgid "Select style"
+msgstr "Sitil Seç"
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:75
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:75
+msgid "Select Users"
+msgstr "Kullanıcıları Seç"
+
+#: vc_custom/shortcodes/sp-articles/core.php:217
+#: vc_custom/shortcodes/sp-blog-posts/core.php:267
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:250
+#: vc_custom/shortcodes/sp-featured-banner/core.php:174
+#: vc_custom/shortcodes/sp-featured-listing/core.php:228
+#: vc_custom/shortcodes/sp-recent-questions/core.php:244
+#: vc_custom/shortcodes/sp-service-providers/core.php:182
+msgid ""
+"Select your Custom Grid Classes for extra small screens. Default is col-xs-6"
+msgstr ""
+"Ekstra küçük ekranlar için özel Izgara (grid) sınıflarınızı seçin. "
+"Varsayılan col-xs-6'dır."
+
+#: vc_custom/shortcodes/sp-articles/core.php:165
+#: vc_custom/shortcodes/sp-blog-posts/core.php:215
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:198
+#: vc_custom/shortcodes/sp-featured-banner/core.php:122
+#: vc_custom/shortcodes/sp-featured-listing/core.php:176
+#: vc_custom/shortcodes/sp-recent-questions/core.php:192
+#: vc_custom/shortcodes/sp-service-providers/core.php:130
+msgid "Select your Custom Grid Classes for medium screens. Default is col-md-4"
+msgstr ""
+"Orta ekranlar için özel ızgara (grid) sınıflarınızı seçin. Varsayılan col-md-"
+"4"
+
+#: vc_custom/shortcodes/sp-articles/core.php:191
+#: vc_custom/shortcodes/sp-blog-posts/core.php:241
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:224
+#: vc_custom/shortcodes/sp-featured-banner/core.php:148
+#: vc_custom/shortcodes/sp-featured-listing/core.php:202
+#: vc_custom/shortcodes/sp-recent-questions/core.php:218
+#: vc_custom/shortcodes/sp-service-providers/core.php:156
+msgid "Select your Custom Grid Classes for small screens. Default is col-sm-6"
+msgstr ""
+"Küçük ekranlar için özel ızgara (grid) sınıflarınızı seçin. Varsayılan col-"
+"sm-6"
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:87
+msgid "self"
+msgstr "öz"
+
+#: vc_custom/shortcodes/sp-services/core.php:121
+#: vc_custom/shortcodes/sp-services-2/core.php:81
+msgid "Service Description"
+msgstr "Hizmet Açıklaması"
+
+#: vc_custom/shortcodes/sp-services/core.php:112
+msgid "Service Thumbnail"
+msgstr "Hizmet Küçük Resmi"
+
+#: vc_custom/shortcodes/sp-services/core.php:60
+msgid "Service Title"
+msgstr "Servis Başlığı"
+
+#: vc_custom/shortcodes/sp-services/core.php:52
+#: vc_custom/shortcodes/sp-services-2/core.php:52
+msgid "Services"
+msgstr "Hizmetler"
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:84
+msgid "Set link target to blank or self tabs."
+msgstr "Bağlantı hedefini boş veya kendi kendine sekme olarak ayarlayın."
+
+#: vc_custom/shortcodes/sp-google-map/core.php:119
+msgid "Set max height for the google map info box."
+msgstr "Google harita bilgisi kutusu için maksimum yüksekliği ayarlayın."
+
+#: vc_custom/shortcodes/sp-google-map/core.php:111
+msgid "Set max width for the google map info box."
+msgstr "Google harita bilgisi kutusu için maksimum genişliğini ayarlayın."
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:36
+msgid "Show / Hide Quote icon"
+msgstr "Alıntı simgesini Göster/Gizle"
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:120
+msgid "Show Button?"
+msgstr "Düğmeyi Göster?"
+
+#: vc_custom/shortcodes/sp-services/core.php:68
+msgid "Show count?"
+msgstr "Sayımı göster?"
+
+#: vc_custom/shortcodes/sp-slider/core.php:184
+msgid "Show Form"
+msgstr "Formu Göster"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:159
+msgid "Show Nav"
+msgstr "Nav'u göster"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:161
+msgid "Show nav true/false"
+msgstr "Nav true / false değerini göster"
+
+#: vc_custom/shortcodes/sp-slider/core.php:239
+msgid "Show Navigation"
+msgstr "Navigasyonu Göster"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:85
+#: vc_custom/shortcodes/sp-articles/core.php:73
+#: vc_custom/shortcodes/sp-blog-posts/core.php:123
+#: vc_custom/shortcodes/sp-categories/core.php:77
+#: vc_custom/shortcodes/sp-featured-listing/core.php:100
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:100
+#: vc_custom/shortcodes/sp-recent-ads/core.php:88
+#: vc_custom/shortcodes/sp-recent-questions/core.php:100
+#: vc_custom/shortcodes/sp-service-providers/core.php:65
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:65
+msgid "Show or hide pagination."
+msgstr "Sayfa numaralarını göster veya gizle."
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:62
+msgid "Show or hide username."
+msgstr "Kullanıcı adını göster veya gizle."
+
+#: vc_custom/shortcodes/sp-slider/core.php:228
+msgid "Show Pagination"
+msgstr "Safya Numaralarını Göster"
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:45
+msgid "Show Recent Questions"
+msgstr "Son Eklenen Soruları Göster"
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:47
+msgid "Show recent questions."
+msgstr "Son eklenen soruları göster."
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:66
+msgid ""
+"Show users by category selection. Leave it empty to show from all categories"
+msgstr ""
+"Kullanıcıları kategori seçimine göre göster. Tüm kategorilerden göstermek "
+"için boş bırakın"
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:122
+msgid "Show View all button"
+msgstr "Tümünü göster düğmesi"
+
+#: vc_custom/shortcodes/sp-slider/core.php:241
+msgid "Show/Hide slider Navigation"
+msgstr "Slider navigasyonunu Göster/Gizle"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:89
+#: vc_custom/shortcodes/sp-slider/core.php:230
+msgid "Show/Hide slider Pagination"
+msgstr "Sayfa numaralarını Göster/Gizle"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:82
+msgid "Simple"
+msgstr "Basit"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:60
+msgid "Slide Description"
+msgstr "Slayt Açıklaması"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:126
+msgid "Slide description"
+msgstr "Slayt açıklaması"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:118
+msgid "Slide sub title"
+msgstr "Alt başlığı kaydır"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:52
+msgid "Slide Title"
+msgstr "Slayt Başlığı"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:36
+#: vc_custom/shortcodes/sp-slider/core.php:48
+msgid "Slider"
+msgstr "Slider"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:111
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:108
+msgid "Slider Autoplay"
+msgstr "Slider Autoplay"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:219
+msgid "Slider Height"
+msgstr "Kaydırıcı Yüksekliği"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:100
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:97
+msgid "Slider loop"
+msgstr "Kaymak döngü"
+
+#: vc_custom/shortcodes/sp-featured-listing/skin.php:273
+#: vc_custom/shortcodes/sp-featured-listing-v2/skin.php:198
+#: vc_custom/shortcodes/sp-packages/skin.php:255
+#: vc_custom/shortcodes/sp-packages/skin.php:267
+msgid "Sorry!"
+msgstr "Üzgünüz!"
+
+#: vc_custom/shortcodes/sp-articles/core.php:25
+msgid "SP Articles"
+msgstr "SP Makaleler"
+
+#: vc_custom/shortcodes/sp-categories/core.php:25
+msgid "SP Categories"
+msgstr "SP Kategoriler"
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:25
+msgid "SP Categories V3"
+msgstr "SP Kategoriler V3"
+
+#: vc_custom/shortcodes/sp-cities/core.php:25
+msgid "SP Cities"
+msgstr "SP Şehirler"
+
+#: vc_custom/shortcodes/sp-contact-form/core.php:25
+msgid "SP Contact Form"
+msgstr "SP İletişim Formu"
+
+#: vc_custom/shortcodes/sp-counter/core.php:25
+msgid "SP Counter"
+msgstr "SP Sayacı"
+
+#: vc_custom/shortcodes/sp-contries/core.php:25
+msgid "SP Countries"
+msgstr "SP Ülkeler"
+
+#: vc_custom/shortcodes/sp-featured-banner/core.php:25
+msgid "SP Featured Banner"
+msgstr "SP Öne Çıkan Kapak Resmi"
+
+#: vc_custom/shortcodes/sp-featured-listing/core.php:25
+msgid "SP Featured Users"
+msgstr "SP Öne Çıkan Kullanıcılar"
+
+#: vc_custom/shortcodes/sp-gallery/core.php:25
+msgid "SP Gallery"
+msgstr "SP Galeri"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:25
+msgid "SP Google Map"
+msgstr "SP Google Harita"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:25
+msgid "SP Home Slider"
+msgstr "SP Home Slider"
+
+#: vc_custom/shortcodes/sp-service-providers/core.php:25
+msgid "SP Listingo"
+msgstr "SP Listingo"
+
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:25
+msgid "SP Listingo V2"
+msgstr "SP Listingo V2"
+
+#: vc_custom/shortcodes/sp-blog-posts/core.php:25
+msgid "SP News Posts"
+msgstr "SP Haber Gönderileri"
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:25
+msgid "SP News Posts V2"
+msgstr "SP Haber Yazıları V2"
+
+#: vc_custom/shortcodes/sp-partners/core.php:25
+msgid "SP Our Partners"
+msgstr "SP Ortaklarımız"
+
+#: vc_custom/shortcodes/sp-post-questions/core.php:25
+msgid "SP Post Questions"
+msgstr "SP Soru Gönder"
+
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:25
+msgid "SP Recent Question Slider"
+msgstr "SP Son Soru Kaydırıcısı"
+
+#: vc_custom/shortcodes/sp-recent-questions/core.php:25
+msgid "SP Recent Questions"
+msgstr "SP Son Sorular"
+
+#: vc_custom/shortcodes/sp-search-form/core.php:25
+msgid "SP Search Form 1"
+msgstr "SP Arama Formu 1"
+
+#: vc_custom/shortcodes/sp-search-form-2/core.php:25
+msgid "SP Search Form 2"
+msgstr "SP Arama Formu 2"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:25
+msgid "SP Search Form 3"
+msgstr "SP Arama Formu 3"
+
+#: vc_custom/shortcodes/sp-search-question/core.php:25
+msgid "SP Search Question"
+msgstr "SP Arama Sorusu"
+
+#: vc_custom/shortcodes/sp-section-heading/core.php:25
+msgid "SP Section Heading"
+msgstr "SP Bölüm Başlığı"
+
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:25
+msgid "SP Section Heading V2"
+msgstr "SP Bölüm Başlığı V2"
+
+#: vc_custom/shortcodes/sp-services/core.php:25
+msgid "SP Services V1"
+msgstr "SP Hizmetler V1"
+
+#: vc_custom/shortcodes/sp-services-2/core.php:25
+msgid "SP Services V2"
+msgstr "SP Hizmetler V2"
+
+#: vc_custom/shortcodes/sp-slider/core.php:25
+msgid "SP Slider"
+msgstr "SP Slider"
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:25
+msgid "SP Sponsor Slider"
+msgstr "SP Sponsoru Slider"
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:25
+msgid "SP Testimonial"
+msgstr "SP Müşteri Görüşleri"
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:25
+msgid "SP Testimonial Slider"
+msgstr "SP Testimonial Slider"
+
+#: vc_custom/shortcodes/sp-text-block/core.php:25
+msgid "SP Text Block"
+msgstr "SP Metin Bloğu"
+
+#: vc_custom/shortcodes/sp-timeline/core.php:25
+msgid "SP Timeline"
+msgstr "SP Zaman Çizelgesi"
+
+#: vc_custom/shortcodes/sp-top-categories/core.php:25
+msgid "SP Top Categories"
+msgstr "SP Üst Kategorileri"
+
+#: vc_custom/shortcodes/sp-trending-categories/core.php:25
+msgid "SP Trending Categories"
+msgstr "SP Trend Kategoriler"
+
+#: vc_custom/shortcodes/sp-video/core.php:25
+msgid "SP Video"
+msgstr "SP Video"
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:75
+msgid "Sponsor Link"
+msgstr "Sponsor Bağlantı"
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:52
+msgid "Sponsors"
+msgstr "Sponsorlar"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:58
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:59
+msgid "Start Your Search"
+msgstr "Aramanızı Başlatın"
+
+#: vc_custom/shortcodes/sp-blog-posts-v2/core.php:45
+#: vc_custom/shortcodes/sp-call-to-action/core.php:45
+#: vc_custom/shortcodes/sp-section-heading-v2/core.php:45
+#: vc_custom/shortcodes/sp-service-providers-v2/core.php:45
+msgid "Sub Heading"
+msgstr "Alt Başlık"
+
+#: vc_custom/shortcodes/sp-slider/core.php:64
+#: vc_custom/shortcodes/sp-slider/core.php:142
+msgid "Sub title"
+msgstr "Alt başlık"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:45
+msgid "Sub Title?"
+msgstr "Alt yazı?"
+
+#: vc_custom/shortcodes/providers-by-cats/core.php:45
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:45
+msgid "SubHeading"
+msgstr "alt başlık"
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:90
+msgid "Submit Now"
+msgstr "Şimdi gönder"
+
+#: vc_custom/shortcodes/sp-post-questions/skin.php:73
+msgid "SUBMIT QUESTION"
+msgstr "SORUYU GÖNDER"
+
+#: vc_custom/shortcodes/sp-newsletter/skin.php:73
+msgid "Subscribe"
+msgstr "Abone ol"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:46
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:82
+msgid "Tab Title"
+msgstr "Sekme Başlığı"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:187
+#: vc_custom/shortcodes/sp-packages/skin.php:190
+msgid "Team Options"
+msgstr "Takım Seçenekleri"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:78
+msgid "TERRAIN"
+msgstr "ARAZİ"
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:63
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:52
+msgid "Testimonial Author"
+msgstr "Müşteri Görüşü Yazarı"
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:71
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:60
+msgid "Testimonial Description"
+msgstr "Müşteri Görüşü Açıklaması"
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:55
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:44
+msgid "Testimonial Heading."
+msgstr "Müşteri Görüşü Başlığı."
+
+#: vc_custom/shortcodes/sp-testimonials/core.php:47
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:36
+msgid "Testimonials"
+msgstr "Müşteri Görüşleri"
+
+#: vc_custom/shortcodes/sp-counter/core.php:37
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:69
+#: vc_custom/shortcodes/sp-search-form-3/core.php:53
+msgid "Text Color"
+msgstr "Metin Rengi"
+
+#. Author of the plugin
+msgid "Themographics"
+msgstr "Themographics"
+
+#. Description of the plugin
+msgid ""
+"This plugin will create shortcodes tab in visual composer plugin for "
+"listingo theme."
+msgstr ""
+"Bu eklenti, listingo teması için visual composer eklentisinde kısa kodlar "
+"sekmesi oluşturacaktır."
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:128
+msgid "This text will be shown below slide title."
+msgstr "Bu metin slayt başlığının altında gösterilecektir."
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:120
+msgid "This text will be used above slide title."
+msgstr "Bu metin slayt başlığının üstünde kullanılacaktır."
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:78
+msgid "Three Star"
+msgstr "Üç yıldız"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:211
+msgid "Time out"
+msgstr "Zaman aşımı"
+
+#: vc_custom/shortcodes/sp-timeline/core.php:76
+msgid "Timeline Description"
+msgstr "Zaman Çizelgesi Açıklaması"
+
+#: vc_custom/shortcodes/sp-timeline/core.php:52
+msgid "Timeline History"
+msgstr "Zaman Çizelgesi Geçmişi"
+
+#: vc_custom/shortcodes/sp-timeline/core.php:68
+msgid "Timeline Title"
+msgstr "Zaman Çizelgesi Başlığı"
+
+#: vc_custom/shortcodes/sp-timeline/core.php:89
+msgid "Timeline URL (Link)"
+msgstr "Zaman Çizelgesi URL (Bağlantı)"
+
+#: vc_custom/shortcodes/sp-timeline/core.php:60
+msgid "Timeline Year."
+msgstr "Zaman Çizelgesi Yılı."
+
+#: vc_custom/shortcodes/sp-packages/core.php:37
+#: vc_custom/shortcodes/sp-packages/core.php:45
+#: vc_custom/shortcodes/sp-slider/core.php:56
+#: vc_custom/shortcodes/sp-slider/core.php:130
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:37
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:68
+#: vc_custom/shortcodes/sp-video/core.php:37
+msgid "Title"
+msgstr "Başlık"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:37
+msgid "Title?"
+msgstr "Başlık?"
+
+#: vc_custom/shortcodes/sp-video/core.php:54
+msgid "To place a video/audio, please put video link in this field"
+msgstr ""
+"Bir video / ses yerleştirmek için lütfen bu alana video bağlantısı ekleyin"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:96
+#: vc_custom/shortcodes/sp-home-slider/core.php:106
+#: vc_custom/shortcodes/sp-home-slider/core.php:116
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:145
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:156
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:167
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:178
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:189
+#: vc_custom/shortcodes/sp-home-slider-v4/core.php:200
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:95
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:105
+#: vc_custom/shortcodes/sp-recent-question-slider/core.php:115
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:91
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:101
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:111
+msgid "True"
+msgstr "Doğru"
+
+#: vc_custom/shortcodes/sp-search-form-3/core.php:91
+#: vc_custom/shortcodes/sp-search-form-3/core.php:102
+#: vc_custom/shortcodes/sp-search-form-3/core.php:113
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:99
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:110
+msgid "true"
+msgstr "doğru"
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:77
+msgid "Two Star"
+msgstr "İki yıldız"
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:157
+msgid "Type Or Slect Category"
+msgstr "Türü veya Kategori Seç"
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:152
+msgid "Type Title Here"
+msgstr "Buraya başlık yazın"
+
+#: vc_custom/core.php:64
+msgid "Typicons"
+msgstr "Typicons"
+
+#: vc_custom/shortcodes/sp-home-slider/core.php:45
+msgid "Upload background Image of the Slide"
+msgstr "Slaytın arka plan resmini yükle"
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:53
+msgid "Upload Image"
+msgstr "Fotoğraf yükleniyor"
+
+#: vc_custom/shortcodes/sp-newsletter-v2/core.php:55
+msgid "Upload Image of the form. Preffered size is 84 x 60"
+msgstr "Formun Resmi Yükle. Tercih edilen boyut 84 x 60"
+
+#: vc_custom/shortcodes/sp-sponser-slider/core.php:62
+msgid "Upload sponsor image here."
+msgstr "Sponsor resmi buraya yükleyin."
+
+#: vc_custom/shortcodes/sp-slider/core.php:81
+msgid "Upload your slider image here."
+msgstr "Slider resminizi buraya yükleyin."
+
+#: vc_custom/shortcodes/sp-slider/core.php:109
+msgid "Upload your top image."
+msgstr "Üst resminizi yükleyiniz."
+
+#: vc_custom/shortcodes/sp-featured-banner/core.php:55
+#: vc_custom/shortcodes/sp-featured-banner/core.php:57
+#: vc_custom/shortcodes/sp-featured-listing/core.php:109
+#: vc_custom/shortcodes/sp-featured-listing/core.php:111
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:109
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:111
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:133
+msgid "User Order"
+msgstr "Kullanıcı Sıralaması"
+
+#: vc_custom/shortcodes/sp-testimonials-slider/core.php:73
+msgid "User Ratings"
+msgstr "Kullanıcı Puanları"
+
+#: vc_custom/shortcodes/sp-newsletter/core.php:59
+msgid "Username?"
+msgstr "Kullanıcı adı?"
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:99
+msgid "Vew 1"
+msgstr "Vew 1"
+
+#: vc_custom/shortcodes/providers-by-cats/skin.php:277
+msgid "view"
+msgstr "görünüm"
+
+#: vc_custom/shortcodes/sp-slider/core.php:40
+msgid "View 1"
+msgstr "Görünüm 1"
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:100
+#: vc_custom/shortcodes/sp-google-map/core.php:90
+#: vc_custom/shortcodes/sp-slider/core.php:41
+msgid "View 2"
+msgstr "Görünüm 2"
+
+#: vc_custom/shortcodes/sp-categories-v3/core.php:101
+#: vc_custom/shortcodes/sp-google-map/core.php:91
+#: vc_custom/shortcodes/sp-slider/core.php:42
+msgid "View 3"
+msgstr "Görünüm 3"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:92
+msgid "View 4"
+msgstr "Görünüm 4"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:93
+msgid "View 5"
+msgstr "Görünüm 5"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:94
+msgid "View 6"
+msgstr "Görünüm 6"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:139
+msgid "View All"
+msgstr "Hepsini gör"
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/skin.php:203
+msgid "View all"
+msgstr "Hepsini gör"
+
+#: vc_custom/shortcodes/sp-top-categories/skin.php:120
+msgid "View Listings"
+msgstr "Listeleri Görüntüle"
+
+#: vc_custom/shortcodes/sp-featured-banner/skin.php:177
+msgid "View Profile"
+msgstr "Profil Görüntüle"
+
+#: vc_custom/shortcodes/sp-video/core.php:67
+msgid "Width of iframe"
+msgstr "Çerçeve genişliği"
+
+#: vc_custom/shortcodes/sp-home-slider-v4/skin.php:232
+msgid "With Profile Photo"
+msgstr "Profil Fotoğrafı ile"
+
+#: vc_custom/shortcodes/sp-featured-listing/skin.php:246
+msgid "within"
+msgstr "within"
+
+#: vc_custom/shortcodes/sp-packages/skin.php:267
+msgid ""
+"WooCoomerce should be installed for payments. Please contact to administrator"
+msgstr "Ödemeler için WooCommerce kurulmalıdır. Lütfen yöneticiye başvurun"
+
+#: vc_custom/shortcodes/sp-articles/skin.php:143
+msgid "Written by"
+msgstr "Yazan"
+
+#: vc_custom/shortcodes/sp-home-slider/skin.php:152
+msgid "XT"
+msgstr "XT"
+
+#: vc_custom/shortcodes/sp-featured-listing-v2/core.php:124
+msgid "YES"
+msgstr "EVET"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:146
+#: vc_custom/shortcodes/sp-google-map/core.php:157
+#: vc_custom/shortcodes/sp-newsletter/core.php:64
+#: vc_custom/shortcodes/sp-post-questions/core.php:49
+#: vc_custom/shortcodes/sp-search-form-2/core.php:73
+msgid "Yes"
+msgstr "Evet"
+
+#: vc_custom/shortcodes/sp-newsletter/skin.php:71
+msgid "Your email address"
+msgstr "e"
+
+#: vc_custom/shortcodes/sp-newsletter/skin.php:67
+msgid "Your name"
+msgstr "Adınız"
+
+#: vc_custom/shortcodes/sp-search-question/skin.php:165
+msgid "Your Question"
+msgstr "Senin sorun"
+
+#: vc_custom/shortcodes/sp-google-map/core.php:60
+msgid "Zoom Level"
+msgstr "Yaklaştırma Seviyesi"
